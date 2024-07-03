@@ -1,0 +1,166 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-image: linear-gradient(#659264, #10590F);
+}
+
+.to--sec1 {
+  padding: 3%;
+}
+
+.to--sec1--div1 {
+  display: flex;
+  flex-direction: column;
+  width: 95%;
+  border-radius: 10px;
+  background-color: #92ad91;
+  align-items: center;
+  justify-content: center;
+  margin-left: 2.5%;
+}
+
+.tp--sec1--div2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 7%;
+  margin-bottom: 3%;
+
+}
+
+.tp-sec1-hr1 {
+  width: 90%;
+  height: 1.5vh;
+  background-color: black;
+  border-radius: 5px;
+}
+
+.tp--sec1--div3 {
+  display: flex;
+  width: 80%;
+  flex-direction: column;
+
+}
+
+.tp--sec1--div5 {
+  display: flex;
+  flex-direction: column;
+  margin-top: 5%;
+  width: 100%;
+
+}
+
+
+/* * {box-sizing:border-box} */
+
+/* Slideshow container */
+.slideshow-container {
+  width: 100%;
+  /* height: 39vh; */
+  position: relative;
+  /* margin: auto; */
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+}
+
+.mySlides1 {
+  display: none;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover,
+.next:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+
+.active,
+.dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@keyframes fade {
+  from {
+    opacity: .4
+  }
+
+  to {
+    opacity: 1
+  }
+}
+
+.tp--sec1--div6 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* margin-top: -10%; */
+}
+
+.tp--sec1--span3 {
+  text-align: justify;
+
+}
+
+.tp--sec1--btn1 {
+  margin-top: 5%;
+  width: 50%;
+  height: 5vh;
+  border-radius: 10px;
+  border: none;
+  margin-bottom: 5%;
+  background-color: #078F35;
+  color: white;
+}
+
+
+@media screen and (min-width: 540px) and (max-width: 950px) {
+  .slideshow-container {
+    width: 50%;
+    /* height: 33vh; */
+    position: relative;
+
+  }
+
+  .tp--sec1--div6 {
+    width: 50%;
+  }
+
+  .tp--sec1--div5 {
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    column-gap: 2%;
+    padding-bottom: 2vh;
+  }
+}
+
+@media screen and (min-width: 950px) {
+  .slideshow-container {
+    width: 40%;
+  }
+
+  .tp--sec1--div5 {
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    column-gap: 2%;
+    padding-bottom: 1.2vh;
+
+  }
+
+  .tp--sec1--div6 {
+    width: 60%;
+  }
+
+}
