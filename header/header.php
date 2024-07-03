@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="header.css" />
 </head>
 
-<body>
+<body class="header--body">
     <!-- mobile -->
     <section class="header--sec1">
         <div class="header--sec1--div1">

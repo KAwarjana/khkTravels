@@ -8,6 +8,11 @@
     src: url("../resoursers/fonts/Poppins-ExtraBold.ttf");
 }
 
+.header--body{
+    margin: 0;
+    padding: 0;
+}
+
 .header--sec1 {
     position: fixed;
     width: 100%;

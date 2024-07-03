@@ -78,3 +78,10 @@ slider.addEventListener("mouseout", () => {
   repeater();
 });
   
+
+
+
+
+
+// image card 
+
