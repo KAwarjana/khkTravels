@@ -82,6 +82,3 @@ slider.addEventListener("mouseout", () => {
 
 
 
-
-// image card 
-
