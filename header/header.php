@@ -23,7 +23,7 @@
         </div>
 
         <div class="dropdown" id="dropdown">
-            <span class="dropdown--item hide" id="drpItem"><a href="../Home/index.html" class="header--a">HOME</a></span>
+            <span class="dropdown--item hide" id="drpItem"><a href="../Home/index.php" class="header--a">HOME</a></span>
             <span class="dropdown--item hide" id="drpItem1">
                 <dl>
                     <a href="#" class="header--a">
@@ -41,7 +41,7 @@
                     </a>
                 </dl>
             </span>
-            <span class="dropdown--item hide" id="drpItem2"><a href="../contact/contact.html" class="header--a">CONTACT US</a></span>
+            <span class="dropdown--item hide" id="drpItem2"><a href="../contact/contact.php" class="header--a">CONTACT US</a></span>
         </div>
 
         <div class="call--now--btn">
@@ -58,7 +58,7 @@
             </div>
             <div class="header--sec2--div3">
                 <div class="header--sec2--div4 dropdown--item--large">
-                    <a href="../Home/index.html" class="header--a">HOME</a>
+                    <a href="../Home/index.php" class="header--a">HOME</a>
                 </div>
                 <div class="header--sec2--div5 dropdown--item--large  dropdown--lg">
                     <select class="header--sec2--div5 dropdown--lg">
@@ -68,7 +68,7 @@
                     </select>
                 </div>
                 <div class="header--sec2--div6 dropdown--item--large">
-                    <a href="../contact/contact.html" class="header--a">CONTACT US</a>
+                    <a href="../contact/contact.php" class="header--a">CONTACT US</a>
                 </div>
             </div>
         </div>

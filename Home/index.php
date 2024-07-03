@@ -7,14 +7,15 @@
     <title>KHK TOURS | HOME</title>
     <link rel="icon" href="../resoursers/logo.png" />
     <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="img.css" />
     <link rel="stylesheet" href="../header/header.css" />
     <link rel="stylesheet" href="../footer/footer.css" />
 </head>
 
 <body>
 
-<!-- Header -->
-<?php include "../header/header.php"; ?>
+    <!-- Header -->
+    <?php include "../header/header.php"; ?>
     <!-- Header -->
 
     <!-- hero slider start -->
@@ -87,7 +88,34 @@
             </div>
             <div class="home--sec3--div5">
 
-                <div id="slides">
+                <!-- <div class="tp--sec1--div3">
+
+                    <div class="tp--sec1--div4">
+                        <span class="tp--sec1--span2">
+                            Mirissa to Ella
+                        </span>
+                        <div class="tp--sec1--div5"> -->
+                <!-- Slideshow container -->
+                <div class="slideshow-container">
+
+                    <!-- Full-width images with number and caption text -->
+                    <div class="mySlides10 fade">
+                        <img src="../resoursers/img/1.jpg" style="width:100%">
+                    </div>
+
+                    <div class="mySlides10 fade">
+                        <img src="../resoursers/img/2.jpg" style="width:100%">
+                    </div>
+
+                    <div class="mySlides10 fade">
+                        <img src="../resoursers/img/3.jpg" style="width:100%">
+                    </div>
+                    <div class="mySlides10 fade">
+                        <img src="../resoursers/img/4.jpg" style="width:100%">
+                    </div>
+                </div>
+
+                <!-- <div id="slides">
                     <input checked type="radio" name="slider" id="slide1" class="set" />
                     <input type="radio" name="slider" id="slide2" class="set" />
                     <input type="radio" name="slider" id="slide3" class="set" />
@@ -110,7 +138,7 @@
                         <label for="slide3"></label>
                         <label for="slide4"></label>
                     </div>
-                </div>
+                </div> -->
 
             </div>
         </div>
@@ -212,10 +240,11 @@
     </section>
 
     <!-- Footer -->
-<?php include "../footer/footer.php"; ?>
+    <?php include "../footer/footer.php"; ?>
     <!-- Footer -->
 
     <script src="script.js"></script>
+    <script src="img.js"></script>
     <script src="../header/script.js"></script>
 
 </body>
