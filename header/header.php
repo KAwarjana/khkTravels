@@ -29,12 +29,12 @@
                     <a href="#" class="header--a">
                         TOUR PACKAGES
                         <dd>
-                            <a href="../package/packages.html#CITY" class="header--a">
+                            <a href="../package/tour.php#CITY" class="header--a">
                                 CITY TOURS
                             </a>
                         </dd>
                         <dd>
-                            <a href="../package/packages.html#DAY" class="header--a">
+                            <a href="../package/tour.php#DAY" class="header--a">
                                 DAY TOURS
                             </a>
                         </dd>
@@ -61,10 +61,10 @@
                     <a href="../Home/index.php" class="header--a">HOME</a>
                 </div>
                 <div class="header--sec2--div5 dropdown--item--large  dropdown--lg">
-                    <select class="header--sec2--div5 dropdown--lg">
-                        <option class="header--sec2--div5 dropdown--item--lg"><a href="#" class="header--a">TOUR PACKAGES</a></option>
-                        <option class="header--sec2--div5 dropdown--item--lg"><a href="../package/packages.html#CITY" class="header--a">CITY TOURS</a></option>
-                        <option class="header--sec2--div5 dropdown--item--lg"><a href="../package/packages.html#DAY" class="header--a">DAY TOURS</a></option>
+                    <select class="header--sec2--div5 dropdown--lg" id="headerSelectLarge" onchange="toggleHeaderSelectLarge();">
+                        <option class="header--sec2--div5 dropdown--item--lg" value="../package/tour.php">TOUR PACKAGES</option>
+                        <option class="header--sec2--div5 dropdown--item--lg" value="../package/tour.php#CITY">CITY TOURS</option>
+                        <option class="header--sec2--div5 dropdown--item--lg" value="../package/tour.php#DAY">DAY TOURS</option>
                     </select>
                 </div>
                 <div class="header--sec2--div6 dropdown--item--large">
@@ -79,7 +79,11 @@
 
     </section>
 
-    <script src="script.js"></script>
+    <div class="header--spaceDiv">
+
+    </div>
+
+    <script src="../header/script.js"></script>
 </body>
 
 </html>

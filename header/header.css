@@ -260,6 +260,10 @@
 
 }
 
+.header--spaceDiv{
+    height: 18vh;
+}
+
 
 @media screen and (min-width:950px){
     .call--now--btn{

@@ -8,9 +8,9 @@ function toggle() {
 }
 
 function toggleHeaderSelect(){
-    window.location.href = document.getElementById("haederSelect").value;
+    window.location.href = document.getElementById("headerSelect").value;
 }
 
 function toggleHeaderSelectLarge(){
-    window.location.href = document.getElementById("haederSelectLarge").value;
+    window.location.href = document.getElementById("headerSelectLarge").value;
 }
