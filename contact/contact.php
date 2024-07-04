@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact Us</title>
+    <title>KHK TOURS | CONTACT US</title>
     <link rel="icon" href="../resoursers/img/logo.png" />
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="../header/header.css" />

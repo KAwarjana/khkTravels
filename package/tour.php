@@ -4,7 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TOUR PACKAGES</title>
+    <title>KHK TOURS | PACKAGES</title>
+    <link rel="icon" href="../resoursers/img/logo.png" />
     <link rel="stylesheet" href="tour.css">
     <link rel="stylesheet" href="../header/header.css" />
     <link rel="stylesheet" href="../footer/footer.css" />
