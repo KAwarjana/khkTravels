@@ -6,3 +6,11 @@ function toggle() {
     document.getElementById("drpItem2").classList.toggle("hide");
 
 }
+
+function toggleHeaderSelect(){
+    window.location.href = document.getElementById("haederSelect").value;
+}
+
+function toggleHeaderSelectLarge(){
+    window.location.href = document.getElementById("haederSelectLarge").value;
+}
