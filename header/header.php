@@ -81,6 +81,9 @@
 
     </section>
 
+    <div class="header--spaceDiv">
+    </div>
+
     <script src="script.js"></script>
 </body>
 
