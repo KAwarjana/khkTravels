@@ -171,7 +171,7 @@
                             </span>
                         </div>
                         <div class="home--sec5--div11">
-                            <img src="../resoursers/img/gallery/arrow.png" class="see-more--arrow" onclick="window.location='../package/tour.php';">
+                            <img src="../resoursers/img/gallery/arrow.png" class="see-more--arrow" onclick="window.location='../package/tour.php#CITY';">
                         </div>
                     </div>
                 </div>
@@ -188,7 +188,7 @@
                             </span>
                         </div>
                         <div class="home--sec5--div12">
-                            <img src="../resoursers/img/gallery/arrow.png" class="see-more--arrow" onclick="window.location='../package/tour.php';">
+                            <img src="../resoursers/img/gallery/arrow.png" class="see-more--arrow" onclick="window.location='../package/tour.php#DAY';">
                         </div>
                     </div>
                 </div>

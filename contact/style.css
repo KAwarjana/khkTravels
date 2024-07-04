@@ -38,7 +38,12 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: linear-gradient(#659264, #10590F);
+    background-image: url("../resoursers/img/body.png");
+    background-repeat: no-repeat;
+  background-size: cover;
+  background-position-y: -5%;
+  background-color: #659264;
+  z-index: 50;
     /* overflow: auto; */
 }
 
@@ -245,8 +250,6 @@ font-family: "Inter-Bold";
     height: 20vh;
     border-radius: 10px;
     border: none;
-
-
 }
 
 .con--sec02--span03{
@@ -274,11 +277,13 @@ font-family: "Inter-Bold";
     height: 5vh;
     border-radius: 10px;
     font-family: "Poppins-Bold";
-    font-size: 150%;
+    font-size: 140%;
+    
 }
 
 .con--sec02--button01:hover{
     background-color: #10590F;
+    cursor: pointer;
 }
 
 .con--sec02--subtopic {
@@ -368,6 +373,10 @@ font-family: "Inter-Bold";
         border-radius: 10px;
         font-family: "Poppins-Bold";
         
+    }
+
+    .con--sec01--div01 {
+        margin-top: 10%;
     }
 
 }
@@ -487,5 +496,13 @@ font-family: "Inter-Bold";
         height: 5vh;
         border-radius: 10px;
         font-family: "Poppins-Bold";
+    }
+
+    .con--sec01--div01 {
+        margin-top: 1%;
+    }
+
+    .con--sec02--div01 {
+        margin-top: 1%;
     }
 }

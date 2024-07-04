@@ -5,11 +5,18 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact Us</title>
+    <link rel="icon" href="../resoursers/img/logo.png" />
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="../header/header.css" />
+    <link rel="stylesheet" href="../footer/footer.css" />
     <link rel="stylesheet" href="../_resources/Bootstrap/bootstrap.css">
 </head>
 
 <body>
+
+ <!-- Header -->
+ <?php include "../header/header.php"; ?>
+    <!-- Header -->
 
     <section class="con--sec01">
         <div class="con--sec01--div01">
@@ -98,6 +105,11 @@
         </div>
     </section>
 
+    <!-- Footer -->
+    <?php include "../footer/footer.php"; ?>
+    <!-- Footer -->
+
+    <script src="../header/script.js"></script>
 
 </body>
 

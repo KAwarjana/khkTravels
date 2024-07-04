@@ -19,7 +19,7 @@
     <!-- Header -->
 
 
-    <section class="to--sec1">
+    <section class="to--sec1" id="DAY">
         <div class="to--sec1--div1">
             <div class="tp--sec1--div2">
                 <span class="tp--sec1--span1">DAY TOURS</span>
@@ -230,7 +230,7 @@
 
     <!-- begin city tours -->
 
-    <section class="to--sec1">
+    <section class="to--sec1" id="CITY">
         <div class="to--sec1--div1">
             <div class="tp--sec1--div2">
                 <span class="tp--sec1--span1">CITY TOURS</span>

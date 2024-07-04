@@ -32,12 +32,12 @@
                         </a>
                     </option>
                     <option class="dropdown--item--sm">
-                        <a href="../package/tour.php" class="header--a">
+                        <a href="../package/tour.php#CITY" class="header--a">
                             CITY TOURS
                         </a>
                     </option>
                     <option class="dropdown--item--sm">
-                        <a href="../package/tour.php" class="header--a">
+                        <a href="../package/tour.php#DAY" class="header--a">
                             DAY TOURS
                         </a>
                     </option>
@@ -65,8 +65,8 @@
                 <div class="header--sec2--div5 dropdown--item--large  dropdown--lg">
                     <select class="header--sec2--div5 dropdown--lg">
                         <option class="header--sec2--div5 dropdown--item--lg"><a href="#" class="header--a">TOUR PACKAGES</a></option>
-                        <option class="header--sec2--div5 dropdown--item--lg"><a href="../package/packages.html#CITY" class="header--a">CITY TOURS</a></option>
-                        <option class="header--sec2--div5 dropdown--item--lg"><a href="../package/packages.html#DAY" class="header--a">DAY TOURS</a></option>
+                        <option class="header--sec2--div5 dropdown--item--lg" onclick="window.location='../package/tour.php#CITY';"><a href="../package/tour.php#CITY" class="header--a">CITY TOURS</a></option>
+                        <option class="header--sec2--div5 dropdown--item--lg" onclick="window.location='../package/tour.php#CITY';"><a href="../package/tour.php#DAY" class="header--a">DAY TOURS</a></option>
                     </select>
                 </div>
                 <div class="header--sec2--div6 dropdown--item--large">
