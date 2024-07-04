@@ -73,7 +73,7 @@
                                 </table>
                             </span>
 
-                            <button class="tp--sec1--btn1">WHATSAPP</button>
+                            <button class="tp--sec1--btn1" onclick="document.location='https://wa.me/94773614654'">WHATSAPP</button>
                         </div>
                     </div>
 
@@ -123,7 +123,7 @@
 
                             </span>
 
-                            <button class="tp--sec1--btn1"> WHATSAPP</a></button>
+                            <button class="tp--sec1--btn1" onclick="document.location='https://wa.me/94773614654'"> WHATSAPP</button>
                         </div>
                     </div>
 
@@ -178,7 +178,7 @@
 
                             </span>
 
-                            <button class="tp--sec1--btn1">WHATSAPP</button>
+                            <button class="tp--sec1--btn1" onclick="document.location='https://wa.me/94773614654'">WHATSAPP</button>
                         </div>
                     </div>
 
@@ -227,7 +227,7 @@
 
                             </span>
 
-                            <button class="tp--sec1--btn1">WHATSAPP</button>
+                            <button class="tp--sec1--btn1" onclick="document.location='https://wa.me/94773614654'">WHATSAPP</button>
                         </div>
                     </div>
 
@@ -290,7 +290,7 @@
 
                             </span>
 
-                            <button class="tp--sec1--btn1">WHATSAPP</button>
+                            <button class="tp--sec1--btn1" onclick="document.location='https://wa.me/94773614654'">WHATSAPP</button>
                         </div>
                     </div>
 
@@ -339,7 +339,7 @@
 
                             </span>
 
-                            <button class="tp--sec1--btn1">WHATSAPP</button>
+                            <button class="tp--sec1--btn1" onclick="document.location='https://wa.me/94773614654'">WHATSAPP</button>
                         </div>
                     </div>
 
@@ -389,7 +389,7 @@
 
                             </span>
 
-                            <button class="tp--sec1--btn1">WHATSAPP</button>
+                            <button class="tp--sec1--btn1" onclick="document.location='https://wa.me/94773614654'">WHATSAPP</button>
                         </div>
                     </div>
 
