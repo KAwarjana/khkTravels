@@ -50,7 +50,7 @@
     <div class="footer--row4">
         <span class="footer--row4--txt">
             © 2024 All Rights Reserved by 
-            <a href="www.evotechsoftwaresolutions.com" class="footer--row4--txt">
+            <a href="https://evotechsoftwaresolutions.com" class="footer--row4--txt">
                 EvoTech Software Solutions.
             </a>
         </span>
