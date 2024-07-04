@@ -49,6 +49,7 @@
             <span class="call--now--txt"><a href="tel:+94 77 361 4654" class="call--now--txt">CALL NOW!</a></span>
         </div>
     </section>
+    
     <!-- large screen -->
     <section class="header--sec2">
         <div class="header--sec2--div1">
@@ -81,6 +82,8 @@
     </section>
     <div class="header--spaceDiv">
     </div>
+
     <script src="script.js"></script>
+
 </body>
 </html>
