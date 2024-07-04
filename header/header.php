@@ -32,12 +32,12 @@
                         </a>
                     </option>
                     <option class="dropdown--item--sm">
-                        <a href="../package/packages.html#CITY" class="header--a">
+                        <a href="../package/tour.php" class="header--a">
                             CITY TOURS
                         </a>
                     </option>
                     <option class="dropdown--item--sm">
-                        <a href="../package/packages.html#DAY" class="header--a">
+                        <a href="../package/tour.php" class="header--a">
                             DAY TOURS
                         </a>
                     </option>
