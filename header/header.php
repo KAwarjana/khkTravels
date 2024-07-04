@@ -25,21 +25,23 @@
         <div class="dropdown" id="dropdown">
             <span class="dropdown--item hide" id="drpItem"><a href="../Home/index.php" class="header--a">HOME</a></span>
             <span class="dropdown--item hide" id="drpItem1">
-                <dl>
-                    <a href="#" class="header--a">
-                        TOUR PACKAGES
-                        <dd>
-                            <a href="../package/packages.html#CITY" class="header--a">
-                                CITY TOURS
-                            </a>
-                        </dd>
-                        <dd>
-                            <a href="../package/packages.html#DAY" class="header--a">
-                                DAY TOURS
-                            </a>
-                        </dd>
-                    </a>
-                </dl>
+                <select class="dropdown--lg">
+                    <option class="dropdown--item--sm">
+                        <a href="#" class="header--a">
+                            TOUR PACKAGES
+                        </a>
+                    </option>
+                    <option class="dropdown--item--sm">
+                        <a href="../package/packages.html#CITY" class="header--a">
+                            CITY TOURS
+                        </a>
+                    </option>
+                    <option class="dropdown--item--sm">
+                        <a href="../package/packages.html#DAY" class="header--a">
+                            DAY TOURS
+                        </a>
+                    </option>
+                </select>
             </span>
             <span class="dropdown--item hide" id="drpItem2"><a href="../contact/contact.php" class="header--a">CONTACT US</a></span>
         </div>
