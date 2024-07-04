@@ -25,21 +25,15 @@
         <div class="dropdown" id="dropdown">
             <span class="dropdown--item hide" id="drpItem"><a href="../Home/index.php" class="header--a">HOME</a></span>
             <span class="dropdown--item hide" id="drpItem1">
-                <select class="dropdown--lg">
-                    <option class="dropdown--item--sm">
-                        <a href="#" class="header--a">
+                <select class="dropdown--lg" id="haederSelect" onchange="toggleHeaderSelect();">
+                    <option class="dropdown--item--sm" value="../package/tour.php">
                             TOUR PACKAGES
-                        </a>
                     </option>
-                    <option class="dropdown--item--sm">
-                        <a href="../package/tour.php#CITY" class="header--a">
+                    <option class="dropdown--item--sm" value="../package/tour.php#CITY">
                             CITY TOURS
-                        </a>
                     </option>
-                    <option class="dropdown--item--sm">
-                        <a href="../package/tour.php#DAY" class="header--a">
+                    <option class="dropdown--item--sm" value="../package/tour.php#DAY">
                             DAY TOURS
-                        </a>
                     </option>
                 </select>
             </span>
@@ -63,10 +57,10 @@
                     <a href="../Home/index.php" class="header--a">HOME</a>
                 </div>
                 <div class="header--sec2--div5 dropdown--item--large  dropdown--lg">
-                    <select class="header--sec2--div5 dropdown--lg">
-                        <option class="header--sec2--div5 dropdown--item--lg"><a href="#" class="header--a">TOUR PACKAGES</a></option>
-                        <option class="header--sec2--div5 dropdown--item--lg" onclick="window.location='../package/tour.php#CITY';"><a href="../package/tour.php#CITY" class="header--a">CITY TOURS</a></option>
-                        <option class="header--sec2--div5 dropdown--item--lg" onclick="window.location='../package/tour.php#CITY';"><a href="../package/tour.php#DAY" class="header--a">DAY TOURS</a></option>
+                    <select class="header--sec2--div5 dropdown--lg" onchange="toggleHeaderSelectLarge();" id="headerSelectLarge">
+                        <option class="header--sec2--div5 dropdown--item--lg" value="../package/tour.php">TOUR PACKAGES</option>
+                        <option class="header--sec2--div5 dropdown--item--lg" value="../package/tour.php#CITY">CITY TOURS</option>
+                        <option class="header--sec2--div5 dropdown--item--lg" value="../package/tour.php#DAY">DAY TOURS</option>
                     </select>
                 </div>
                 <div class="header--sec2--div6 dropdown--item--large">
