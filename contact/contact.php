@@ -17,10 +17,20 @@
                 <span class="con--sec01--span01">About Us</span>
             </div>
             <div class="con--sec01--div03">
-                <span class="con--sec01--span02">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid
-                    aperiam veniam aut esse ducimus
-                    sed inventore explicabo, aspernatur debitis labore vitae sequi consequuntur in quas quidem accusamus
-                    eius voluptatum. Quidem?</span>
+                <div class="con--sec01--div20">
+                    <img class="con--sec01--aboutimg" src="../resoursers/img/1.jpg" alt="">
+                </div>
+
+                <div class="con--sec01--div21">
+                    <span class="con--sec01--span02">KHK Tours is a premier travel company based in Sri Lanka,
+                        dedicated to providing exceptional tourism services. Specializing in personalized and
+                        customizable travel experiences, KHK Tours offers a range of services including guided
+                        sightseeing tours, excursions, and comprehensive travel packages. The company's mission is to
+                        showcase Sri Lanka's rich cultural, historical, and natural attractions, ensuring every traveler
+                        enjoys a seamless and memorable journey.
+                    </span>
+                </div>
+
             </div>
         </div>
     </section>
@@ -32,24 +42,27 @@
             </div>
             <div class="con--sec02--div02">
                 <span class="con--sec02--span02">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum nisi quod magni quos. Architecto
-                    minima ducimus sapiente ipsum! Adipisci aperiam molestias saepe libero dolore exercitationem beatae
-                    error quisquam laboriosam suscipit.
+                    We value your feedback and are here to assist you with any questions or concerns you may have.
+                    Whether you're looking for more information about our services, need assistance with a product,
+                    or just want to share your thoughts, we're here to help. You can reach us via email at
+                    or call us at. Our team is also available on social media platforms, including Facebook,
+                    Twitter, and Instagram. We strive to respond to all inquiries promptly and appreciate your patience.
+                    Thank you for choosing to connect with us.
                 </span>
             </div>
 
             <div class="con--sec02--div03">
                 <div class="con--sec02--div04">
                     <img class="con--sec02--icon" src="../resoursers/img/phone.png" alt="">
-                    <span>0777000000</span>
+                    <span class="con--sec02--icon--text">0777000000</span>
                 </div>
                 <div class="con--sec02--div17">
                     <img class="con--sec02--icons" src="../resoursers/img/email.png" alt="">
-                    <span>abc@gmail.com</span>
+                    <span class="con--sec02--icon--text">abc@gmail.com</span>
                 </div>
                 <div class="con--sec02--div05">
                     <img class="con--sec02--icons" src="../resoursers/img/home.png" alt="">
-                    <span>kandy Road piliyandala</span>
+                    <span class="con--sec02--icon--text">kandy Road piliyandala</span>
                 </div>
             </div>
             <div class="con--sec02--div06">
