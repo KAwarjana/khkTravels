@@ -252,21 +252,25 @@ color: #FFFFFF;
 .footer--icon--span1{
     font-size: 1rem;
     margin-top: 1.8%;
+    cursor: pointer;
 }
 
 .footer--icon--span2{
     font-size: 1rem;
     margin-top: 1%;
+    cursor: pointer;
 }
 
 .footer--icon--span3{
     font-size: 1rem;
     margin-top: 0.7%;
+    cursor: pointer;
 }
 
 .footer--icon--span4{
     font-size: 1rem;
     margin-top: 0.5%;
+    cursor: pointer;
 }
 
 @media screen and (min-width:700px) {

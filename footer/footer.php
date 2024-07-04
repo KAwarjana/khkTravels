@@ -27,11 +27,11 @@
             </div>
             <div class="footer--list2">
                 <span class="listHeader">CONTACT US</span>
-                <div class="footer--iconDiv1">
+                <div class="footer--iconDiv1" onclick="document.location='https://www.facebook.com/khktravel?mibextid=ZbWKwL'">
                     <a href="#"><img src="../resoursers/img/facebook icon.png" /></a>
                     <span class="footer--icon--span1">FACEBOOK</span>
                 </div>
-                <div class="footer--iconDiv2">
+                <div class="footer--iconDiv2" onclick="document.location='https://www.instagram.com/khktraval?igsh=MTRzYmtsbWc0bDVtMQ=='">
                     <a href="#"><img src="../resoursers/img/Instagram icon.png" /></a>
                     <span class="footer--icon--span2">INSTRAGRAM</span>
                 </div>
@@ -39,7 +39,7 @@
                     <a href="#"><img src="../resoursers/img/YouTube icon.png" /></a>
                     <span class="footer--icon--span3">YOUTUBE</span>
                 </div>
-                <div class="footer--iconDiv4">
+                <div class="footer--iconDiv4" onclick="document.location='mailto:khktours@gmail.com'">
                     <a href="#"><img src="../resoursers/img/Email icon.png" /></a>
                     <span class="footer--icon--span4">EMAIL</span>
                 </div>
