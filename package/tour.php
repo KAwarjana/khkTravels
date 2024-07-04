@@ -6,14 +6,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>TOUR PACKAGES</title>
     <link rel="stylesheet" href="tour.css">
-  
+    <link rel="stylesheet" href="../header/header.css" />
+    <link rel="stylesheet" href="../footer/footer.css" />
+
 </head>
 
 <body>
+
+
     <!-- Header -->
-    <?php include "../header/header.php";? >
+    <?php include "../header/header.php"; ?>
     <!-- Header -->
-     
+
+
     <section class="to--sec1">
         <div class="to--sec1--div1">
             <div class="tp--sec1--div2">
@@ -375,11 +380,17 @@
             </div>
         </div>
     </section>
- <!-- Footer -->
- <?php include = "../footer/footer.php"; ?>
- <!-- Footer -->
- <script src="../header/script.js"></script>
+
+
+    <!-- Footer -->
+    <?php include "../footer/footer.php"; ?>
+    <!-- Footer -->
+
+
+    <script src="../header/script.js"></script>
     <script src="tour.js"></script>
+
+
 </body>
 
 </html>
