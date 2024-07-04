@@ -140,14 +140,14 @@
                                 <img src="../resoursers/" style="width:100%">
                             </div>
 
-                            <div class="mySlides1 fade">
+                            <div class="mySlides2 fade">
                                 <img src="../resoursers/" style="width:100%">
                             </div>
 
-                            <div class="mySlides1 fade">
+                            <div class="mySlides2 fade">
                                 <img src="../resoursers/" style="width:100%">
                             </div>
-                            <div class="mySlides1 fade">
+                            <div class="mySlides2 fade">
                                 <img src="../resoursers/" style="width:100%">
                             </div>
                         </div>
@@ -195,14 +195,14 @@
                                 <img src="../resoursers/" style="width:100%">
                             </div>
 
-                            <div class="mySlides1 fade">
+                            <div class="mySlides3 fade">
                                 <img src="../resoursers/" style="width:100%">
                             </div>
 
-                            <div class="mySlides1 fade">
+                            <div class="mySlides3 fade">
                                 <img src="../resoursers/" style="width:100%">
                             </div>
-                            <div class="mySlides1 fade">
+                            <div class="mySlides3 fade">
                                 <img src="../resoursers/" style="width:100%">
                             </div>
                         </div>
@@ -251,14 +251,14 @@
                                 <img src="../resoursers/" style="width:100%">
                             </div>
 
-                            <div class="mySlides fade">
+                            <div class="mySlides4 fade">
                                 <img src="../resoursers/" style="width:100%">
                             </div>
 
-                            <div class="mySlides fade">
+                            <div class="mySlides4 fade">
                                 <img src="../resoursers/" style="width:100%">
                             </div>
-                            <div class="mySlides fade">
+                            <div class="mySlides4 fade">
                                 <img src="../resoursers/" style="width:100%">
                             </div>
                         </div>
@@ -300,14 +300,14 @@
                                 <img src="../resoursers/" style="width:100%">
                             </div>
 
-                            <div class="mySlides fade">
+                            <div class="mySlides5 fade">
                                 <img src="../resoursers/" style="width:100%">
                             </div>
 
-                            <div class="mySlides fade">
+                            <div class="mySlides5 fade">
                                 <img src="../resoursers/" style="width:100%">
                             </div>
-                            <div class="mySlides fade">
+                            <div class="mySlides5 fade">
                                 <img src="../resoursers/" style="width:100%">
                             </div>
                         </div>
@@ -349,14 +349,14 @@
                                 <img src="../resoursers/" style="width:100%">
                             </div>
 
-                            <div class="mySlides fade">
+                            <div class="mySlides6 fade">
                                 <img src="../resoursers/" style="width:100%">
                             </div>
 
-                            <div class="mySlides fade">
+                            <div class="mySlides6 fade">
                                 <img src="../resoursers/" style="width:100%">
                             </div>
-                            <div class="mySlides fade">
+                            <div class="mySlides6 fade">
                                 <img src="../resoursers/" style="width:100%">
                             </div>
                         </div>
