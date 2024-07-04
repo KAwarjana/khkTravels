@@ -5,7 +5,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <title>KHK TOURS | HOME</title>
-    <link rel="icon" href="../resoursers/logo.png" />
+    <link rel="icon" href="../resoursers/img/logo.png" />
     <link rel="stylesheet" href="style.css" />
     <link rel="stylesheet" href="img.css" />
     <link rel="stylesheet" href="../header/header.css" />
@@ -104,14 +104,14 @@
                     </div>
 
                     <div class="mySlides10 fade">
-                        <img src="../resoursers/img/2.jpg" style="width:100%">
+                        <img src="../resoursers/img/2.png" style="width:100%">
                     </div>
 
                     <div class="mySlides10 fade">
                         <img src="../resoursers/img/3.jpg" style="width:100%">
                     </div>
                     <div class="mySlides10 fade">
-                        <img src="../resoursers/img/4.jpg" style="width:100%">
+                        <img src="../resoursers/img/4.png" style="width:100%">
                     </div>
                 </div>
 
@@ -147,6 +147,7 @@
     <section class="home--sec4">
         <div class="home--sec4--div1">
             <img src="../resoursers/img/gallery/Group 3.png" class="home--gallery-droup01">
+            <img src="../resoursers/img/gallery/Group 4.png" class="home--gallery-group02">
         </div>
     </section>
 
@@ -170,7 +171,7 @@
                             </span>
                         </div>
                         <div class="home--sec5--div11">
-                            <img src="../resoursers/img/gallery/arrow.png">
+                            <img src="../resoursers/img/gallery/arrow.png" class="see-more--arrow" onclick="window.location='../package/tour.html';">
                         </div>
                     </div>
                 </div>
@@ -187,7 +188,7 @@
                             </span>
                         </div>
                         <div class="home--sec5--div12">
-                            <img src="../resoursers/img/gallery/arrow.png">
+                            <img src="../resoursers/img/gallery/arrow.png" class="see-more--arrow" onclick="window.location='../package/tour.html';">
                         </div>
                     </div>
                 </div>
