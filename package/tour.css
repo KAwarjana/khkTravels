@@ -14,6 +14,11 @@
 }
 
 @font-face {
+  font-family: "Inter-Bold";
+  src: url("../resoursers/fonts/Inter-Bold.ttf");
+}
+
+@font-face {
   font-family: "Inter-ExtraBold";
   src: url("../resoursers/fonts/Inter-ExtraBold.ttf");
 }
@@ -44,11 +49,12 @@ body {
   display: flex;
   flex-direction: column;
   width: 95%;
-  border-radius: 10px;
+  border-radius: 15px;
   background-color: #92ad91;
   align-items: center;
   justify-content: center;
-  margin-left: 2.5%;
+  padding: 10% 2% 10% 2%;
+  margin-top: 0%;
 }
 
 .tp--sec1--div2 {
@@ -56,9 +62,15 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  margin-top: 7%;
+  margin-top: 2%;
   margin-bottom: 3%;
 
+}
+
+.tp--sec1--span1{
+  font-family: "Aladin";
+  font-size: 2.5rem;
+  color: #ffffffd8;
 }
 
 .tp-sec1-hr1 {
@@ -81,6 +93,11 @@ body {
   margin-top: 5%;
   width: 100%;
 
+}
+
+.tp--sec1--span2{
+font-family: "Inter-Bold";
+font-size: 1.3rem;
 }
 
 
@@ -160,8 +177,8 @@ body {
 }
 
 .tp--sec1--span3 {
-  text-align: justify;
-
+  text-align: left;
+font-family: "Inter";
 }
 
 .tp--sec1--btn1 {
@@ -173,6 +190,13 @@ body {
   margin-bottom: 5%;
   background-color: #078F35;
   color: white;
+  font-family: "Inter-Bold";
+  text-decoration: none;
+}
+
+.tp--sec1--btn1:hover{
+  background-color: #10590F;
+  cursor: pointer;
 }
 
 
@@ -195,6 +219,16 @@ body {
     column-gap: 2%;
     padding-bottom: 2vh;
   }
+
+  .to--sec1--div1 {
+    padding: 5% 2% 5% 2%;
+    margin-top: 0%;
+    margin-top: -2%;
+  }
+
+  .heading--pack01{
+    margin-top: 10%;
+  }
 }
 
 @media screen and (min-width: 950px) {
@@ -213,6 +247,12 @@ body {
 
   .tp--sec1--div6 {
     width: 60%;
+  }
+
+  .to--sec1--div1 {
+    padding: 5% 2% 5% 2%;
+    margin-top: 0%;
+    margin-top: -5%;
   }
 
 }
