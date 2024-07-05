@@ -197,23 +197,27 @@
     display: flex;
     position: fixed;
     width: 100%;
-    height: 25vh;
+    height: 16vh;
     z-index: 15;
     background-color: #f2f2f2;
 }
 
 .header--sec2--div1{
+    display: flex;
+    flex-direction: row;
     width: 100%;
 }
 
 .header--sec2--div2 {
     /* background-color: #b40a0a; */
+    width: 25%;
     justify-content: center;
     align-items: center;
     display: flex;
 }
 
 .header--sec2--div3 {
+    width: 50%;
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -242,37 +246,30 @@
 
 .header--logo {
     width: auto;
-    height: 20vh;
-}
-
-.call--now--btn{
-    width: 10%;
-    height: 15%;
-    padding: 1%;
-    border-radius: 10px;
-    left: 87.5%;
-    bottom: 67%;
+    height: 15vh;
 }
 
 .call--now--txt{
     font-size: 1rem;
 }
 
+.header--spaceDiv{
+    height: 15vh;
 }
 
-.header--spaceDiv{
-    height: 18vh;
 }
+
+
 
 
 @media screen and (min-width:950px){
     .call--now--btn{
         width: 8%;
-        height: 15%;
+        height: 24%;
         padding: 0.5%;
         border-radius: 10px;
         left: 90.5%;
-        bottom: 71%;
+        bottom: 60%;
     }
     
     .call--now--txt{
@@ -281,7 +278,7 @@
 
     .header--spaceDiv{
         width: 100%;
-        height: 25vh;
+        height: 15vh;
     }
 }
 
@@ -289,20 +286,25 @@
 @media screen and (min-width:950px) and (max-width:1150px) {
     .call--now--btn{
         width: 10%;
-        height: 15%;
-        padding: 1%;
+        height: 24%;
+        padding: 0.5%;
         border-radius: 10px;
         left: 87.5%;
-        bottom: 67%;
+        bottom: 55%;
     }
     
     .call--now--txt{
         font-size: 1rem;
     }
+
+    .header--logo {
+        width: auto;
+        height: 15vh;
+    }
 }
 
 
-@media screen and (min-width:540px) and (max-width:945px){
+@media screen and (min-width:545px) and (max-width:945px){
     .header--sec1 {
         display: none;
     }
@@ -311,23 +313,27 @@
         display: flex;
         position: fixed;
         width: 100%;
-        height: 23vh;
+        height: 13vh;
         z-index: 15;
         background-color: #f2f2f2;
     }
 
     .header--sec2--div1{
+        display: flex;
+    flex-direction: row;
         width: 100%;
     }
 
     .header--sec2--div2 {
         /* background-color: #b40a0a; */
+        width: 25%;
         justify-content: center;
         align-items: center;
         display: flex;
     }
 
     .header--sec2--div3 {
+        width: 60%;
         display: flex;
         flex-direction: row;
         justify-content: center;
@@ -365,19 +371,23 @@
 
     .header--logo {
         width: auto;
-        height: 18vh;
+        height: 12vh;
     }
 
     .call--now--btn{
         width: 12%;
-        height: 9%;
-        padding: 1%;
+        height: 18%;
+        padding: 0.5%;
         border-radius: 10px;
         left: 85.5%;
-        bottom: 82%;
+        bottom: 70%;
     }
 
     .call--now--txt{
         font-size: 1rem;
+    }
+
+    .header--spaceDiv{
+        height: 12vh;
     }
 }

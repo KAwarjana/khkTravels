@@ -22,16 +22,16 @@
     <section class="hero">
         <div class="slider">
             <div class="slide active">
-                <img src="../resoursers/img/h1.jpeg" alt="">
+                <img src="../resoursers/img/h1.png" alt="">
             </div>
             <div class="slide">
-                <img src="../resoursers/img/h2.jpeg" alt="">
+                <img src="../resoursers/img/h2.png" alt="">
             </div>
             <div class="slide">
-                <img src="../resoursers/img/h3.jpeg" alt="">
+                <img src="../resoursers/img/h3.png" alt="">
             </div>
             <div class="slide">
-                <img src="../resoursers/img/h4.jpeg" alt="">
+                <img src="../resoursers/img/h4.png" alt="">
             </div>
 
             <div class="navigation">
