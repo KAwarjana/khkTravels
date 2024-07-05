@@ -175,6 +175,10 @@ body {
     width: 35%;
 }
 
+.con1 {
+    width: 22%;
+}
+
 .con--sec02--icon--text{
 font-family: "Inter-Bold";
 }
@@ -209,6 +213,10 @@ font-family: "Inter-Bold";
     flex-direction: column;
     width: 80%;
 
+}
+
+.contxt1{
+    text-align: center;
 }
 
 .con--sec02--inputs {
@@ -313,7 +321,9 @@ font-family: "Inter-Bold";
         margin-bottom: 5%;
     }
 
-    
+    .contxt1{
+    text-align: left;
+}
 
     .con--sec01--div03 {
         margin-top: 3%;
@@ -324,30 +334,31 @@ font-family: "Inter-Bold";
     }
 
     .con--sec02--div03 {
-        flex-direction: row;
+        flex-direction: column;
         align-items: center;
         justify-content: center;
 
     }
 
     .con--sec02--div04 {
-        flex-direction: row;
-        column-gap: 10%;
-        margin-right: 15%;
+        flex-direction: column;
+        /* column-gap: 10%; */
+        /* margin-right: 15%; */
+        margin-top: 4%;
     }
 
     .con--sec02--div05 {
-        flex-direction: row;
-        column-gap: 10%;
+        flex-direction: column;
+        /* column-gap: 10%; */
         margin-top: 2%;
 
 
     }
 
     .con--sec02--div17 {
-        flex-direction: row;
-        column-gap: 10%;
-        margin-right: 10%;
+        flex-direction: column;
+        /* column-gap: 10%; */
+        /* margin-right: 10%; */
     }
 
     .con--sec02--div08 {
@@ -505,4 +516,8 @@ font-family: "Inter-Bold";
     .con--sec02--div01 {
         margin-top: 1%;
     }
+
+     .contxt1{
+    text-align: left;
+}
 }

@@ -7,15 +7,15 @@
     <title>KHK TOURS | CONTACT US</title>
     <link rel="icon" href="../resoursers/img/logo.png" />
     <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="../header/header.css" />
-    <link rel="stylesheet" href="../footer/footer.css" />
+    <link rel="stylesheet" href="../header.css" />
+    <link rel="stylesheet" href="../footer.css" />
     <link rel="stylesheet" href="../_resources/Bootstrap/bootstrap.css">
 </head>
 
 <body>
 
  <!-- Header -->
- <?php include "../header/header.php"; ?>
+ <?php include "../header.php"; ?>
     <!-- Header -->
 
     <section class="con--sec01">
@@ -61,15 +61,15 @@
             <div class="con--sec02--div03">
                 <div class="con--sec02--div04">
                     <img class="con--sec02--icon" src="../resoursers/img/phone.png" alt="">
-                    <span class="con--sec02--icon--text">0777000000</span>
+                    <span class="con--sec02--icon--text">+94773614654</span>
                 </div>
                 <div class="con--sec02--div17">
                     <img class="con--sec02--icons" src="../resoursers/img/email.png" alt="">
-                    <span class="con--sec02--icon--text">abc@gmail.com</span>
+                    <span class="con--sec02--icon--text">khktours@gmail.com</span>
                 </div>
                 <div class="con--sec02--div05">
-                    <img class="con--sec02--icons" src="../resoursers/img/home.png" alt="">
-                    <span class="con--sec02--icon--text">kandy Road piliyandala</span>
+                    <img class="con--sec02--icons con1" src="../resoursers/img/home.png" alt="">
+                    <span class="con--sec02--icon--text contxt1">No 16/A, 2nd cross road, Uyanwatta, Matara</span>
                 </div>
             </div>
             <div class="con--sec02--div06">
@@ -106,10 +106,10 @@
     </section>
 
     <!-- Footer -->
-    <?php include "../footer/footer.php"; ?>
+    <?php include "../footer.php"; ?>
     <!-- Footer -->
 
-    <script src="../header/script.js"></script>
+    <script src="../header.js"></script>
 
 </body>
 

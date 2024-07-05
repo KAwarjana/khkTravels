@@ -83,7 +83,7 @@
 
     </div>
 
-    <script src="../header/script.js"></script>
+    <script src="header.js"></script>
 </body>
 
 </html>
