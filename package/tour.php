@@ -7,8 +7,8 @@
     <title>KHK TOURS | PACKAGES</title>
     <link rel="icon" href="../resoursers/img/logo.png" />
     <link rel="stylesheet" href="tour.css">
-    <link rel="stylesheet" href="../header.css" />
-    <link rel="stylesheet" href="../footer.css" />
+    <link rel="stylesheet" href="../header/header.css" />
+    <link rel="stylesheet" href="../footer/footer.css" />
 
 </head>
 
@@ -16,7 +16,7 @@
 
 
     <!-- Header -->
-    <?php include "../header.php"; ?>
+    <?php include "../header/header.php"; ?>
     <!-- Header -->
 
 
@@ -402,11 +402,11 @@
 
 
     <!-- Footer -->
-    <?php include "../footer.php"; ?>
+    <?php include "../footer/footer.php"; ?>
     <!-- Footer -->
 
 
-    <script src="../header.js"></script>
+    <script src="../header/script.js"></script>
     <script src="tour.js"></script>
 
 

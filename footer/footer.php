@@ -21,7 +21,7 @@
             </div>
             <div class="footer--list3">
                 <span class="listHeader">QUICK LINKS</span>
-                <a href="../index.php" class="listItem link--item1 redirect"><span class="listItem item1 redirect">HOME</span></a>
+                <a href="../home/index.php" class="listItem link--item1 redirect"><span class="listItem item1 redirect">HOME</span></a>
                 <a href="../package/tour.php" class="listItem link--item2 redirect"><span class="listItem item2 redirect">TOUR PACKAGES</span></a>
                 <a href="../contact/contact.php" class="listItem link--item3 redirect"><span class="listItem item4 redirect">CONTACT US</span></a>
             </div>
