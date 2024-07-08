@@ -23,7 +23,7 @@
         </div>
 
         <div class="dropdown" id="dropdown">
-            <span class="dropdown--item hide" id="drpItem"><a href="../Home/index.php" class="header--a">HOME</a></span>
+            <span class="dropdown--item hide" id="drpItem"><a href="../index.php" class="header--a">HOME</a></span>
             <span class="dropdown--item hide" id="drpItem1">
                 <dl>
                     <a href="#" class="header--a">
@@ -58,7 +58,7 @@
             </div>
             <div class="header--sec2--div3">
                 <div class="header--sec2--div4 dropdown--item--large">
-                    <a href="../Home/index.php" class="header--a">HOME</a>
+                    <a href="../index.php" class="header--a">HOME</a>
                 </div>
                 <div class="header--sec2--div5 dropdown--item--large  dropdown--lg">
                     <select class="header--sec2--div5 dropdown--lg" id="headerSelectLarge" onchange="toggleHeaderSelectLarge();">

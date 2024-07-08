@@ -8,14 +8,14 @@
     <link rel="icon" href="../resoursers/img/logo.png" />
     <link rel="stylesheet" href="style.css" />
     <link rel="stylesheet" href="img.css" />
-    <link rel="stylesheet" href="../header/header.css" />
-    <link rel="stylesheet" href="../footer/footer.css" />
+    <link rel="stylesheet" href="header.css" />
+    <link rel="stylesheet" href="footer.css" />
 </head>
 
 <body>
 
     <!-- Header -->
-    <?php include "../header/header.php"; ?>
+    <?php include "header.php"; ?>
     <!-- Header -->
 
     <!-- hero slider start -->
@@ -241,12 +241,12 @@
     </section>
 
     <!-- Footer -->
-    <?php include "../footer/footer.php"; ?>
+    <?php include "footer.php"; ?>
     <!-- Footer -->
 
     <script src="script.js"></script>
     <script src="img.js"></script>
-    <script src="../header/script.js"></script>
+    <script src="header.js"></script>
 
 </body>
 
