@@ -14,35 +14,7 @@
     <section class="header--sec1">
         <div class="header--sec1--div1">
             <div class="header--sec1--div2">
-
-
-                <div id="mySidepanel" class="sidepanel">
-                    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
-                    <a href="../Home/index.php" class="header--a">HOME</a>
-                    <dl>
-                        <a href="#" class="header--a">
-                            TOUR PACKAGES
-                            <dd>
-                                <a href="../package/tour.php#CITY" class="header--a">
-                                    CITY TOURS
-                                </a>
-                            </dd>
-                            <dd>
-                                <a href="../package/tour.php#DAY" class="header--a">
-                                    DAY TOURS
-                                </a>
-                            </dd>
-                        </a>
-                    </dl>
-                    </a>
-                    <a href="../contact/contact.php#contact">CONTACT US</a>
-                    <a href="../contact/contact.php#about">ABOUT US</a>
-                </div>
-
-                <button class="openbtn" onclick="openNav()">☰</button>
-
-
-                <!-- <img src="../resoursers/img/toggle.png" onclick="toggle();" class="header--toggle" /> -->
+                <img src="../resoursers/img/toggle.png" onclick="toggle();" class="header--toggle" />
             </div>
 
             <div class="header--sec1--div3">
@@ -50,14 +22,7 @@
             </div>
         </div>
 
-
-
-
-
-
-
-
-        <!-- <div class="dropdown" id="dropdown">
+        <div class="dropdown" id="dropdown">
             <span class="dropdown--item hide" id="drpItem"><a href="../Home/index.php" class="header--a">HOME</a></span>
             <span class="dropdown--item hide" id="drpItem1">
                 <dl>
@@ -77,7 +42,7 @@
                 </dl>
             </span>
             <span class="dropdown--item hide" id="drpItem2"><a href="../contact/contact.php" class="header--a">CONTACT US</a></span>
-        </div> -->
+        </div>
 
         <div class="call--now--btn">
             <span class="call--now--txt"><a href="tel:+94 77 361 4654" class="call--now--txt">CALL NOW!</a></span>
