@@ -14,7 +14,10 @@
     <section class="header--sec1">
         <div class="header--sec1--div1">
             <div class="header--sec1--div2">
-                <img src="../resoursers/img/toggle.png" onclick="toggle();" class="header--toggle" />
+
+<img src="../resoursers/img/toggle.png" onclick="toggle();" class="header--toggle" />
+
+              
             </div>
 
             <div class="header--sec1--div3">
@@ -23,7 +26,7 @@
         </div>
 
         <div class="dropdown" id="dropdown">
-            <span class="dropdown--item hide" id="drpItem"><a href="../Home/index.php" class="header--a">HOME</a></span>
+            <span class="dropdown--item hide" id="drpItem"><a href="../index.php" class="header--a">HOME</a></span>
             <span class="dropdown--item hide" id="drpItem1">
                 <dl>
                     <a href="#" class="header--a">
@@ -73,7 +76,7 @@
             </div>
         </div>
 
-        <div class="call--now--btn">
+        <div class="call--now--btn--lg">
             <span class="call--now--txt"><a href="tel:+94 77 361 4654" class="call--now--txt">CALL NOW!</a></span>
         </div>
 
