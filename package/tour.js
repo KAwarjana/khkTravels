@@ -105,3 +105,19 @@ function showSlides6() {
   setTimeout(showSlides1, 5000); // Change image every 2 seconds
 }
 
+
+let slideIndex7 = 0;
+showSlides7();
+
+function showSlides7() {
+  let i;
+  let slides = document.getElementsByClassName("mySlides7");
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";
+  }
+  slideIndex1++;
+  if (slideIndex1 > slides.length) {slideIndex1 = 1}
+  slides[slideIndex1-1].style.display = "block";
+  setTimeout(showSlides1, 5000); // Change image every 2 seconds
+}
+

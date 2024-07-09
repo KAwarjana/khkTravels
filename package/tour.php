@@ -338,18 +338,18 @@
                         <div class="slideshow-container">
 
                             <!-- Full-width images with number and caption text -->
-                            <div class="mySlides3 fade">
+                            <div class="mySlides7 fade">
                                 <img src="../resoursers/img/1.jpg" style="width:100%">
                             </div>
 
-                            <div class="mySlides3 fade">
+                            <div class="mySlides7 fade">
                                 <img src="../resoursers/img/2.png" style="width:100%">
                             </div>
 
-                            <div class="mySlides3 fade">
+                            <div class="mySlides7 fade">
                                 <img src="../resoursers/img/3.jpg" style="width:100%">
                             </div>
-                            <div class="mySlides3 fade">
+                            <div class="mySlides7 fade">
                                 <img src="../resoursers/img/4.png" style="width:100%">
                             </div>
                         </div>
