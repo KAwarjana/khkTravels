@@ -14,3 +14,19 @@ function toggleHeaderSelect(){
 function toggleHeaderSelectLarge(){
     window.location.href = document.getElementById("headerSelectLarge").value;
 }
+
+
+
+
+
+
+
+
+
+function openNav() {
+    document.getElementById("mySidepanel").style.width = "250px";
+  }
+  
+  function closeNav() {
+    document.getElementById("mySidepanel").style.width = "0";
+  }

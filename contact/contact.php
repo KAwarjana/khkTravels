@@ -18,7 +18,7 @@
  <?php include "../header.php"; ?>
     <!-- Header -->
 
-    <section class="con--sec01">
+    <section class="con--sec01" id="about">
         <div class="con--sec01--div01">
             <div class="con--sec01--div02">
                 <span class="con--sec01--span01">About Us</span>
@@ -42,7 +42,7 @@
         </div>
     </section>
 
-    <section class="con--sec02">
+    <section class="con--sec02" id="contact">
         <div class="con--sec02--div01">
             <div class="con--sec02--div16">
                 <span class="con--sec02--span01">Contact Us</span>
