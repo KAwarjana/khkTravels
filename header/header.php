@@ -41,6 +41,11 @@
                                 DAY TOURS
                             </a>
                         </dd>
+                        <dd>
+                            <a href="../package/tour.php#ANIMAL" class="header--a">
+                            ANIMAL WATCHING TOURS
+                            </a>
+                        </dd>
                     </a>
                 </dl>
             </span>
@@ -68,6 +73,7 @@
                         <option class="header--sec2--div5 dropdown--item--lg" value="../package/tour.php">TOUR PACKAGES</option>
                         <option class="header--sec2--div5 dropdown--item--lg" value="../package/tour.php#CITY">CITY TOURS</option>
                         <option class="header--sec2--div5 dropdown--item--lg" value="../package/tour.php#DAY">DAY TOURS</option>
+                        <option class="header--sec2--div5 dropdown--item--lg" value="../package/tour.php#ANIMAL">ANIMAL WATCHING TOURS</option>
                     </select>
                 </div>
                 <div class="header--sec2--div6 dropdown--item--large">

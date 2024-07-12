@@ -237,7 +237,7 @@
                                     <li>Pick and drop Vehicle your destination</li>
                                     <li>4×4 Luxury safari Jeep</li>
                                     <li>Safari Jeep Driver with extensive experience</li>
-                                    <li>Lunch for culture village (Cart tour/ Boat tour)</li>
+                                    <li>Lunch from culture village (Cart tour/ Boat tour)</li>
                                 </ul><br>
 
                                 <b>AMENITIES </b>
@@ -291,9 +291,9 @@
                         <!-- Slideshow container -->
                         <div class="tp--sec1--div6">
                             <span class="tp--sec1--span3">
-                            You can visit Minneriya or Kaudulla National Parks on your way from Kandy to Trincomalee or Nilaveli and experience the way wild animals behave in the environment. You can also visit the cultural village. It is an experience you will never have in your life. You can also have your lunch there. You will also enjoy a boat ride and a cart ride on the lake in the village. It starts at 9.30 am and lasts for 10 hours.
-                                
-                            <br><br><br>
+                                You can visit Minneriya or Kaudulla National Parks on your way from Kandy to Trincomalee or Nilaveli and experience the way wild animals behave in the environment. You can also visit the cultural village. It is an experience you will never have in your life. You can also have your lunch there. You will also enjoy a boat ride and a cart ride on the lake in the village. It starts at 9.30 am and lasts for 10 hours.
+
+                                <br><br><br>
                                 <b> INCLUDING</b>
                                 <ul>
                                     <li>Safari Jeep</li>
@@ -331,7 +331,7 @@
 
                 <div class="tp--sec1--div4">
                     <span class="tp--sec1--span2">
-                    Ella One day tour
+                        Ella One day tour
                     </span>
                     <div class="tp--sec1--div5">
                         <!-- Slideshow container -->
@@ -357,26 +357,22 @@
                         <!-- Slideshow container -->
                         <div class="tp--sec1--div6">
                             <span class="tp--sec1--span3">
-                            You can visit Minneriya or Kaudulla National Parks on your way from Kandy to Trincomalee or Nilaveli and experience the way wild animals behave in the environment. You can also visit the cultural village. It is an experience you will never have in your life. You can also have your lunch there. You will also enjoy a boat ride and a cart ride on the lake in the village. It starts at 9.30 am and lasts for 10 hours.
-                                
-                            <br><br><br>
+                                <b>PACKAGE </b><br>
+                                12 Hour Private Tours <br><br>
+
+                                <b>START </b><br>
+                                Morning 7.00AM to Evening 7.00PM <br><br>
+
+
+                                Another good trip we have is from the cities of Mirissa, Weligama, Dikwella, Tangalle, Hikkaduwa. Cities can be visited.
+                                <br><br>
                                 <b> INCLUDING</b>
                                 <ul>
-                                    <li>Safari Jeep</li>
-                                    <li>Well experience Guide</li>
-                                    <li>With /Without national park entrance frees with taxes</li>
-                                    <li>Hotel pickup and drop off</li>
-                                    <li>Pick and drop Vehicle your destination</li>
-                                    <li>4×4 Luxury safari Jeep</li>
-                                    <li>Safari Jeep Driver with extensive experience</li>
-                                    <li>Lunch for culture village (Cart tour/ Boat tour)</li>
-                                </ul><br>
-
-                                <b>AMENITIES </b>
-                                <ul>
-                                    <li>Fresh fruit platter </li>
-                                    <li>Water bottles during tour</li>
+                                    <li>Pick and drop vehicle your destination</li>
+                                    <li>Well experience driver</li>
+                                    <li>Water bottle and Refreshments</li>
                                 </ul>
+
 
                             </span>
 
@@ -437,9 +433,21 @@
                         <!-- Slideshow container -->
                         <div class="tp--sec1--div6">
                             <span class="tp--sec1--span3">
-                                <b>Main Destinations:-</b><br> treehil ,Parrot Rock ,Secreat beach<br><br>
-                                <b>Includes:-</b><br> Pickup and drop vehicale,water bottle,refreshment drink
+                                <b>PACKAGE </b><br>
+                                6 Hour Private Tour <br><br>
 
+                                <b>START </b><br>
+                                You can schedule this as per your wish <br><br>
+
+                                You can join us when visiting Mirissa city where you can get a boat ride to see crocodile and bird along with memories that you can never experience in a day in the life of Nilwala River located in Matara City and Coconut Tree Hill, Parrot Rock, Secret Beach.
+                                <br><br><br>
+                                <b> INCLUDING</b>
+                                <ul>
+                                    <li>Hotel pickup and drop </li>
+                                    <li>Pick and drop vehicle your destination</li>
+                                    <li>Well experience driver</li>
+                                    <li>Boat and fresh fruit platter, water bottle</li>
+                                </ul>
 
                             </span>
 
@@ -486,10 +494,21 @@
                         <!-- Slideshow container -->
                         <div class="tp--sec1--div6">
                             <span class="tp--sec1--span3">
-                                <b> Main Destinations:-</b><br> Galle Fort ,Jubgle beach,Kalawalla beach,Japanese temple,Koggala
-                                stilt fishing<br><br>
-                                <b>Includes:-</b> <br>Pickup and drop vehicale,water bottle,refreshment drink
+                                <b>PACKAGE </b><br>
+                                6 Hour Private Tour <br><br>
 
+                                <b>START </b><br>
+                                You can schedule this as per your wish <br><br>
+
+                                Galle city tour will take you towards the beautiful beach where you can see Dala Wella beach and jungle beaches. stilt fishing men, and spice gardens, white tea factory, turtle breeding and amazingly beautiful beaches Japanese temple close to the beautiful beach and finally we go to Galle Dutch Fort. Galle on the southwest coast of Sri Lanka by the bay was first built by the Portuguese in 1588. and then extensively fortified by the Dutch in the 17th century from 1649. It is a historical, archaeological and architectural heritage monument that maintains a polished look even after more than 423 years.
+                                <br><br><br>
+                                <b> INCLUDING</b>
+                                <ul>
+                                    <li>Hotel pickup and drop </li>
+                                    <li>Pick and drop vehicle your destination</li>
+                                    <li>Well experience driver</li>
+                                    <li>Water bottle and Refreshments</li>
+                                </ul>
                             </span>
 
                             <button class="tp--sec1--btn1" onclick="document.location='https://wa.me/94773614654'">WHATSAPP</button>
@@ -535,10 +554,152 @@
                         <!-- Slideshow container -->
                         <div class="tp--sec1--div6">
                             <span class="tp--sec1--span3">
-                                <b>Main Destinations:-</b><br>Ambuluwawa,Kandy temple,Peradeniya botanical garden,Kandy
-                                viewpoint,Nelligala Temple<br><br>
-                                <b>Includes:-</b><br>Pickup and drop vehical,water bottle,refreshment drink
+                                <b>PACKAGE </b><br>
+                                8 Hour Private Tour <br><br>
 
+                                <b>START </b><br>
+                                Morning 8.00AM to Evening 4.00PM <br><br>
+
+                                If you are visiting Kandy city, you can join us and make your tour as per your wish and here you can see the beautiful temples like Tooth of Temple Kandy, Kandy View Point, Ambuluawa Tower and Peradeniya Flower Garden, Nelligala Temple. <br><br><br>
+                                <b> INCLUDING</b>
+                                <ul>
+                                    <li>Hotel pickup and drop </li>
+                                    <li>Pick and drop vehicle your destination</li>
+                                    <li>Well experience driver</li>
+                                    <li>Water bottle and Refreshments</li>
+                                </ul>
+
+                            </span>
+
+                            <button class="tp--sec1--btn1" onclick="document.location='https://wa.me/94773614654'">WHATSAPP</button>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <section class="to--sec1" id="ANIMAL">
+        <div class="tp--sec1--div2 heading--pack01">
+            <span class="tp--sec1--span1">ANIMAL WATCHING TOURS</span>
+        </div>
+
+        <section class="to--sec1">
+        </section>
+
+        <div class="to--sec1--div1">
+
+            <div class="tp--sec1--div3">
+
+                <div class="tp--sec1--div4">
+                    <span class="tp--sec1--span2">
+                        Turtle Watching
+                    </span>
+                    <div class="tp--sec1--div5">
+                        <!-- Slideshow container -->
+                        <div class="slideshow-container">
+
+                            <!-- Full-width images with number and caption text -->
+                            <div class="mySlides fade">
+                                <img src="../resoursers/img/1.jpg" style="width:100%">
+                            </div>
+
+                            <div class="mySlides fade">
+                                <img src="../resoursers/img/2.png" style="width:100%">
+                            </div>
+
+                            <div class="mySlides fade">
+                                <img src="../resoursers/img/3.jpg" style="width:100%">
+                            </div>
+                            <div class="mySlides fade">
+                                <img src="../resoursers/img/4.png" style="width:100%">
+                            </div>
+                        </div>
+                        <br>
+                        <!-- Slideshow container -->
+                        <div class="tp--sec1--div6">
+                            <span class="tp--sec1--span3">
+                                <b>PACKAGE </b><br>
+                                2 or 3 Hours Private Tour<br><br>
+
+                                <b>START </b><br>
+                                Morning 7.30AM <br><br>
+
+                                If you are traveling to Sri Lanka, you can see turtles on our coast. Join us to make your trip unforgettable. There you can see the turtles in Hikkaduwa, Mirissa, Polhena, Rakawa on the south coast and Pigeon Islands on the northeast coast.
+                                <br><br>
+                                <b> INCLUDING</b>
+                                <ul>
+                                    <li>Hotel pickup and drop </li>
+                                    <li>Pick and drop vehicle your destination</li>
+                                    <li>Well experience driver</li>
+                                    <li>Water bottle and Refreshments</li>
+                                </ul>
+                            </span>
+
+                            <button class="tp--sec1--btn1" onclick="document.location='https://wa.me/94773614654'">WHATSAPP</button>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <section class="to--sec1">
+        <div class="to--sec1--div1">
+
+            <div class="tp--sec1--div3">
+
+                <div class="tp--sec1--div4">
+                    <span class="tp--sec1--span2">
+                        Whales and Dolphin Watching
+                    </span>
+                    <div class="tp--sec1--div5">
+                        <!-- Slideshow container -->
+                        <div class="slideshow-container">
+
+                            <!-- Full-width images with number and caption text -->
+                            <div class="mySlides6 fade">
+                                <img src="../resoursers/img/1.jpg" style="width:100%">
+                            </div>
+
+                            <div class="mySlides6 fade">
+                                <img src="../resoursers/img/2.png" style="width:100%">
+                            </div>
+
+                            <div class="mySlides6 fade">
+                                <img src="../resoursers/img/3.jpg" style="width:100%">
+                            </div>
+                            <div class="mySlides6 fade">
+                                <img src="../resoursers/img/4.png" style="width:100%">
+                            </div>
+                        </div>
+                        <br>
+                        <!-- Slideshow container -->
+                        <div class="tp--sec1--div6">
+                            <span class="tp--sec1--span3">
+                                <b>PACKAGE </b><br>
+                                4 or 5 Hour Tours <br><br>
+
+                                <b>START </b><br>
+                                Morning 6.30AM <br><br>
+
+                                Are you looking to visit Sri Lanka come join us and make your visit an unforgettable trip of your life.
+                                The best time to see whales and dolphins in Mirissa is from November to April when the ocean is calm and warm. Whales are known to migrate around the southern tip of the island during these months as well. Increasing your chances of spotting a gentle giant. 
+
+                                Between May and October, whales migrate from the south coast to the east coast. Trincomalee coast is best during these months for a whale and dolphin watching excursion.
+                                <br><br>
+                                <b> INCLUDING</b>
+                                <ul>
+                                    <li>Hotel pickup and drop </li>
+                                    <li>Pick and drop vehicle your destination</li>
+                                    <li>Well experience driver</li>
+                                    <li>Boat and well experience Guide and Protective cover</li>
+                                    <li>Water bottle and Breakfast</li>
+                                </ul>
 
                             </span>
 
