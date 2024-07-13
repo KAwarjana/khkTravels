@@ -581,6 +581,256 @@
         </div>
     </section>
 
+
+    <section class="to--sec1" id="SAFARI">
+        <div class="tp--sec1--div2 heading--pack01">
+            <span class="tp--sec1--span1">SAFARI TOURS</span>
+        </div>
+
+        <section class="to--sec1">
+        </section>
+
+        <div class="to--sec1--div1">
+
+            <div class="tp--sec1--div3">
+
+                <div class="tp--sec1--div4">
+                    <span class="tp--sec1--span2">
+                        Udawalawa National Park Safari Jeep Tours
+                    </span>
+                    <div class="tp--sec1--div5">
+                        <!-- Slideshow container -->
+                        <div class="slideshow-container">
+
+                            <!-- Full-width images with number and caption text -->
+                            <div class="mySlides fade">
+                                <img src="../resoursers/img/1.jpg" style="width:100%">
+                            </div>
+
+                            <div class="mySlides fade">
+                                <img src="../resoursers/img/2.png" style="width:100%">
+                            </div>
+
+                            <div class="mySlides fade">
+                                <img src="../resoursers/img/3.jpg" style="width:100%">
+                            </div>
+                            <div class="mySlides fade">
+                                <img src="../resoursers/img/4.png" style="width:100%">
+                            </div>
+                        </div>
+                        <br>
+                        <!-- Slideshow container -->
+                        <div class="tp--sec1--div6">
+                            <span class="tp--sec1--span3">
+                                <b>PACKAGE </b><br>
+                                3-hours/4-hour Private Tours (Normal Safari )
+                                <br><br>
+
+                                <b>START </b><br>
+                                Morning Safari - 5.30AM / 9.30AM <br><br>
+
+                                Udawalawa National Park Safari Tours for 3 or 4 Hours. With our udawalawe safari tour, you can spend more than 3 or 4 hours exploring and photographing wildlife. You have the option of taking an Afternoon or Evening Safari tour. Our Guide/Driver will teach everything there is to know about wild creatures and the national park.
+                                <br>Join us for an exciting adventure safari experience for your valuable money.
+                                <br><br>
+                                We will give you unique experience unlike any other
+                                <br><br>
+                                <b>CONTACT</b><br>
+                                &nbsp;&nbsp;&nbsp;&nbsp;+94773614654
+
+
+                                <br><br>
+                                <b> INCLUDING</b>
+                                <ul>
+                                    <li>Safari Jeep </li>
+                                    <li>Well experience Guide </li>
+                                    <li>With /Without national park entrance fees with taxes</li>
+                                    <li>Hotel pickup and drop off</li>
+                                    <li>Pick and drop Vehicle your destination </li>
+                                    <li>4×4 Luxury safari Jeep </li>
+                                    <li>Safari Jeep Driver with extensive experience</li>
+                                    <li>Food & Beverags </li>
+                                </ul><br>
+
+                                <b>AMENITIES </b>
+                                <ul>
+                                    <li>Fresh fruit platter </li>
+                                    <li>Water bottles during tour</li>
+                                </ul>
+                            </span>
+
+                            <button class="tp--sec1--btn1" onclick="document.location='https://wa.me/94773614654'">WHATSAPP</button>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+
+    <section class="to--sec1">
+
+        <div class="to--sec1--div1">
+
+            <div class="tp--sec1--div3">
+
+                <div class="tp--sec1--div4">
+                    <span class="tp--sec1--span2">
+                        Udawalawa National Park Safari Jeep Tours
+                    </span>
+                    <div class="tp--sec1--div5">
+                        <!-- Slideshow container -->
+                        <div class="slideshow-container">
+
+                            <!-- Full-width images with number and caption text -->
+                            <div class="mySlides fade">
+                                <img src="../resoursers/img/1.jpg" style="width:100%">
+                            </div>
+
+                            <div class="mySlides fade">
+                                <img src="../resoursers/img/2.png" style="width:100%">
+                            </div>
+
+                            <div class="mySlides fade">
+                                <img src="../resoursers/img/3.jpg" style="width:100%">
+                            </div>
+                            <div class="mySlides fade">
+                                <img src="../resoursers/img/4.png" style="width:100%">
+                            </div>
+                        </div>
+                        <br>
+                        <!-- Slideshow container -->
+                        <div class="tp--sec1--div6">
+                            <span class="tp--sec1--span3">
+                                <b>PACKAGE </b><br>
+                                3-hours/4-hour Private Tours (Normal Safari )
+                                <br><br>
+
+                                <b>START </b><br>
+                                Morning Safari - 10.00AM / 2.00PM <br><br>
+
+                                Udawalawe National Park Safari Tours for 3 or 4 Hours. With our udawalawe safari tour, you can spend more than 3 or  4 hours exploring and photographing wildlife. You have the option of taking an Afternoon or Evening Safari tour. Our Guide/Driver will teach everything there is to know about wild creatures and the national park.
+<br>Join us for an exciting adventure safari experience for your valuable money.
+
+                                <br><br>
+                                We will give you unique experience unlike any other
+                                <br><br>
+                                <b>CONTACT</b><br>
+                                &nbsp;&nbsp;&nbsp;&nbsp;+94773614654
+
+
+                                <br><br>
+                                <b> INCLUDING</b>
+                                <ul>
+                                    <li>Safari Jeep </li>
+                                    <li>Well experience Guide </li>
+                                    <li>With /Without national park entrance fees with taxes</li>
+                                    <li>Hotel pickup and drop off</li>
+                                    <li>Pick and drop Vehicle your destination </li>
+                                    <li>4×4 Luxury safari Jeep </li>
+                                    <li>Safari Jeep Driver with extensive experience</li>
+                                    <li>Food & Beverags </li>
+                                </ul><br>
+
+                                <b>AMENITIES </b>
+                                <ul>
+                                    <li>Fresh fruit platter </li>
+                                    <li>Water bottles during tour</li>
+                                </ul>
+                            </span>
+
+                            <button class="tp--sec1--btn1" onclick="document.location='https://wa.me/94773614654'">WHATSAPP</button>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <section class="to--sec1">
+
+        <div class="to--sec1--div1">
+
+            <div class="tp--sec1--div3">
+
+                <div class="tp--sec1--div4">
+                    <span class="tp--sec1--span2">
+                        Udawalawa National Park Safari Jeep Tours
+                    </span>
+                    <div class="tp--sec1--div5">
+                        <!-- Slideshow container -->
+                        <div class="slideshow-container">
+
+                            <!-- Full-width images with number and caption text -->
+                            <div class="mySlides fade">
+                                <img src="../resoursers/img/1.jpg" style="width:100%">
+                            </div>
+
+                            <div class="mySlides fade">
+                                <img src="../resoursers/img/2.png" style="width:100%">
+                            </div>
+
+                            <div class="mySlides fade">
+                                <img src="../resoursers/img/3.jpg" style="width:100%">
+                            </div>
+                            <div class="mySlides fade">
+                                <img src="../resoursers/img/4.png" style="width:100%">
+                            </div>
+                        </div>
+                        <br>
+                        <!-- Slideshow container -->
+                        <div class="tp--sec1--div6">
+                            <span class="tp--sec1--span3">
+                                <b>PACKAGE </b><br>
+                                3-hours/4-hour Private Tours (Normal Safari )
+                                <br><br>
+
+                                <b>START </b><br>
+                                Evening Safari - 2.00PM / 6.00PM <br><br>
+
+                                Udawalawe National Park Safari Tours for 3 or 4 Hours. With our udawalawe safari tour, you can spend more than 3 or  4 hours exploring and photographing wildlife. You have the option of taking an Afternoon or Evening Safari tour. Our Guide/Driver will teach everything there is to know about wild creatures and the national park.
+<br>Join us for an exciting adventure safari experience for your valuable money.
+
+                                <br><br>
+                                We will give you unique experience unlike any other
+                                <br><br>
+                                <b>CONTACT</b><br>
+                                &nbsp;&nbsp;&nbsp;&nbsp;+94773614654
+
+
+                                <br><br>
+                                <b> INCLUDING</b>
+                                <ul>
+                                    <li>Safari Jeep </li>
+                                    <li>Well experience Guide </li>
+                                    <li>With /Without national park entrance fees with taxes</li>
+                                    <li>Hotel pickup and drop off</li>
+                                    <li>Pick and drop Vehicle your destination </li>
+                                    <li>4×4 Luxury safari Jeep </li>
+                                    <li>Safari Jeep Driver with extensive experience</li>
+                                    <li>Food & Beverages (Picnic Breakfast, Lunch, etc.) </li>
+                                </ul><br>
+
+                                <b>AMENITIES </b>
+                                <ul>
+                                    <li>Fresh fruit platter </li>
+                                    <li>Water bottles during tour</li>
+                                </ul>
+                            </span>
+
+                            <button class="tp--sec1--btn1" onclick="document.location='https://wa.me/94773614654'">WHATSAPP</button>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </section>
+
     <section class="to--sec1" id="ANIMAL">
         <div class="tp--sec1--div2 heading--pack01">
             <span class="tp--sec1--span1">ANIMAL WATCHING TOURS</span>
@@ -712,6 +962,8 @@
             </div>
         </div>
     </section>
+
+
 
 
     <!-- Footer -->

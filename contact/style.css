@@ -36,14 +36,11 @@
 
 
 body {
-    margin: 0;
-    padding: 0;
     background-image: url("../resoursers/img/body.png");
-    background-repeat: no-repeat;
-  background-size: cover;
-  background-position-y: -5%;
-  background-color: #659264;
-  z-index: 50;
+    /* background-repeat: no-repeat; */
+    background-size: contain;
+    /* background-position-y: -5%; */
+    background-color: #659264;
     /* overflow: auto; */
 }
 
@@ -56,7 +53,7 @@ body {
     align-items: center;
     justify-content: center;
     margin-left: 5%;
-    background-color: #8fab8e;
+    background: rgba(255, 255, 255, 0.3);
     border-radius: 15px;
     margin-top: 7%;
 }
@@ -437,9 +434,9 @@ font-family: "Inter-Bold";
         flex-direction: row;
         align-items: center;
         justify-content: center;
-        width: 100%;
+        width: 70%;
         margin-bottom: -8%;
-
+background-color: red;
     }
 
     .con--sec02--div04 {

@@ -36,9 +36,11 @@
 
 
 body {
-  padding: 0;
-  margin: 0;
-  background-image: linear-gradient(#659264, #10590F);
+  background-image: url("../resoursers/img/body.png");
+  /* background-repeat: no-repeat; */
+  background-size: contain;
+  /* background-position-y: -5%; */
+  background-color: #659264;
 }
 
 .to--sec1 {
@@ -50,7 +52,7 @@ body {
   flex-direction: column;
   width: 95%;
   border-radius: 15px;
-  background-color: #92ad91;
+  background-color: rgb(217, 217, 217, 39%);
   align-items: center;
   justify-content: center;
   padding: 10% 2% 10% 2%;
@@ -71,6 +73,7 @@ body {
   font-family: "Aladin";
   font-size: 2.5rem;
   color: #ffffffd8;
+  text-align: center;
 }
 
 .tp-sec1-hr1 {
@@ -97,7 +100,12 @@ body {
 
 .tp--sec1--span2{
 font-family: "Inter-Bold";
-font-size: 1.3rem;
+font-size: 1.5rem;
+display: flex;
+align-items: center;
+  justify-content: center;
+text-align: center;
+/* background-color: red; */
 }
 
 

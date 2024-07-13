@@ -30,8 +30,8 @@
 
 body {
   background-image: url("../resoursers/img/body.png");
-  background-repeat: no-repeat;
-  background-size: cover;
+  /* background-repeat: no-repeat; */
+  background-size: contain;
   background-position-y: -5%;
   background-color: #659264;
   z-index: 50;
