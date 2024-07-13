@@ -7,8 +7,8 @@
     <title>KHK TOURS | PACKAGES</title>
     <link rel="icon" href="../resoursers/img/logo.png" />
     <link rel="stylesheet" href="tour.css">
-    <link rel="stylesheet" href="../header/header.css" />
-    <link rel="stylesheet" href="../footer/footer.css" />
+    <link rel="stylesheet" href="../header.css" />
+    <link rel="stylesheet" href="../footer.css" />
 
 </head>
 
@@ -16,14 +16,15 @@
 
 
     <!-- Header -->
-    <?php include "../header/header.php"; ?>
+    <?php include "../header.php"; ?>
     <!-- Header -->
 
-
-    <section class="to--sec1" id="DAY">
-        <div class="tp--sec1--div2 heading--pack01">
+    <div class="tp--sec1--div2 heading--pack01">
             <span class="tp--sec1--span1">DAY TOURS</span>
         </div>
+
+    <section class="to--sec1" id="DAY">
+        
 
         <section class="to--sec1">
         </section>
@@ -338,18 +339,18 @@
                         <div class="slideshow-container">
 
                             <!-- Full-width images with number and caption text -->
-                            <div class="mySlides7 fade">
+                            <div class="mySlides4 fade">
                                 <img src="../resoursers/img/1.jpg" style="width:100%">
                             </div>
 
-                            <div class="mySlides7 fade">
+                            <div class="mySlides4 fade">
                                 <img src="../resoursers/img/2.png" style="width:100%">
                             </div>
 
-                            <div class="mySlides7 fade">
+                            <div class="mySlides4 fade">
                                 <img src="../resoursers/img/3.jpg" style="width:100%">
                             </div>
-                            <div class="mySlides7 fade">
+                            <div class="mySlides4 fade">
                                 <img src="../resoursers/img/4.png" style="width:100%">
                             </div>
                         </div>
@@ -414,18 +415,18 @@
                         <div class="slideshow-container">
 
                             <!-- Full-width images with number and caption text -->
-                            <div class="mySlides4 fade">
+                            <div class="mySlides5 fade">
                                 <img src="../resoursers/img/1.jpg" style="width:100%">
                             </div>
 
-                            <div class="mySlides4 fade">
+                            <div class="mySlides5 fade">
                                 <img src="../resoursers/img/2.png" style="width:100%">
                             </div>
 
-                            <div class="mySlides4 fade">
+                            <div class="mySlides5 fade">
                                 <img src="../resoursers/img/3.jpg" style="width:100%">
                             </div>
-                            <div class="mySlides4 fade">
+                            <div class="mySlides5 fade">
                                 <img src="../resoursers/img/4.png" style="width:100%">
                             </div>
                         </div>
@@ -475,18 +476,18 @@
                         <div class="slideshow-container">
 
                             <!-- Full-width images with number and caption text -->
-                            <div class="mySlides5 fade">
+                            <div class="mySlides6 fade">
                                 <img src="../resoursers/img/1.jpg" style="width:100%">
                             </div>
 
-                            <div class="mySlides5 fade">
+                            <div class="mySlides6 fade">
                                 <img src="../resoursers/img/2.png" style="width:100%">
                             </div>
 
-                            <div class="mySlides5 fade">
+                            <div class="mySlides6 fade">
                                 <img src="../resoursers/img/3.jpg" style="width:100%">
                             </div>
-                            <div class="mySlides5 fade">
+                            <div class="mySlides6 fade">
                                 <img src="../resoursers/img/4.png" style="width:100%">
                             </div>
                         </div>
@@ -535,18 +536,18 @@
                         <div class="slideshow-container">
 
                             <!-- Full-width images with number and caption text -->
-                            <div class="mySlides6 fade">
+                            <div class="mySlides7 fade">
                                 <img src="../resoursers/img/1.jpg" style="width:100%">
                             </div>
 
-                            <div class="mySlides6 fade">
+                            <div class="mySlides7 fade">
                                 <img src="../resoursers/img/2.png" style="width:100%">
                             </div>
 
-                            <div class="mySlides6 fade">
+                            <div class="mySlides7 fade">
                                 <img src="../resoursers/img/3.jpg" style="width:100%">
                             </div>
-                            <div class="mySlides6 fade">
+                            <div class="mySlides7 fade">
                                 <img src="../resoursers/img/4.png" style="width:100%">
                             </div>
                         </div>
@@ -603,18 +604,18 @@
                         <div class="slideshow-container">
 
                             <!-- Full-width images with number and caption text -->
-                            <div class="mySlides fade">
+                            <div class="mySlides8 fade">
                                 <img src="../resoursers/img/1.jpg" style="width:100%">
                             </div>
 
-                            <div class="mySlides fade">
+                            <div class="mySlides8 fade">
                                 <img src="../resoursers/img/2.png" style="width:100%">
                             </div>
 
-                            <div class="mySlides fade">
+                            <div class="mySlides8 fade">
                                 <img src="../resoursers/img/3.jpg" style="width:100%">
                             </div>
-                            <div class="mySlides fade">
+                            <div class="mySlides8 fade">
                                 <img src="../resoursers/img/4.png" style="width:100%">
                             </div>
                         </div>
@@ -684,18 +685,18 @@
                         <div class="slideshow-container">
 
                             <!-- Full-width images with number and caption text -->
-                            <div class="mySlides fade">
+                            <div class="mySlides9 fade">
                                 <img src="../resoursers/img/1.jpg" style="width:100%">
                             </div>
 
-                            <div class="mySlides fade">
+                            <div class="mySlides9 fade">
                                 <img src="../resoursers/img/2.png" style="width:100%">
                             </div>
 
-                            <div class="mySlides fade">
+                            <div class="mySlides9 fade">
                                 <img src="../resoursers/img/3.jpg" style="width:100%">
                             </div>
-                            <div class="mySlides fade">
+                            <div class="mySlides9 fade">
                                 <img src="../resoursers/img/4.png" style="width:100%">
                             </div>
                         </div>
@@ -765,18 +766,18 @@
                         <div class="slideshow-container">
 
                             <!-- Full-width images with number and caption text -->
-                            <div class="mySlides fade">
+                            <div class="mySlides10 fade">
                                 <img src="../resoursers/img/1.jpg" style="width:100%">
                             </div>
 
-                            <div class="mySlides fade">
+                            <div class="mySlides10 fade">
                                 <img src="../resoursers/img/2.png" style="width:100%">
                             </div>
 
-                            <div class="mySlides fade">
+                            <div class="mySlides10 fade">
                                 <img src="../resoursers/img/3.jpg" style="width:100%">
                             </div>
-                            <div class="mySlides fade">
+                            <div class="mySlides10 fade">
                                 <img src="../resoursers/img/4.png" style="width:100%">
                             </div>
                         </div>
@@ -852,18 +853,18 @@
                         <div class="slideshow-container">
 
                             <!-- Full-width images with number and caption text -->
-                            <div class="mySlides fade">
+                            <div class="mySlides11 fade">
                                 <img src="../resoursers/img/1.jpg" style="width:100%">
                             </div>
 
-                            <div class="mySlides fade">
+                            <div class="mySlides11 fade">
                                 <img src="../resoursers/img/2.png" style="width:100%">
                             </div>
 
-                            <div class="mySlides fade">
+                            <div class="mySlides11 fade">
                                 <img src="../resoursers/img/3.jpg" style="width:100%">
                             </div>
-                            <div class="mySlides fade">
+                            <div class="mySlides11 fade">
                                 <img src="../resoursers/img/4.png" style="width:100%">
                             </div>
                         </div>
@@ -912,18 +913,18 @@
                         <div class="slideshow-container">
 
                             <!-- Full-width images with number and caption text -->
-                            <div class="mySlides6 fade">
+                            <div class="mySlides12 fade">
                                 <img src="../resoursers/img/1.jpg" style="width:100%">
                             </div>
 
-                            <div class="mySlides6 fade">
+                            <div class="mySlides12 fade">
                                 <img src="../resoursers/img/2.png" style="width:100%">
                             </div>
 
-                            <div class="mySlides6 fade">
+                            <div class="mySlides12 fade">
                                 <img src="../resoursers/img/3.jpg" style="width:100%">
                             </div>
-                            <div class="mySlides6 fade">
+                            <div class="mySlides12 fade">
                                 <img src="../resoursers/img/4.png" style="width:100%">
                             </div>
                         </div>
@@ -967,11 +968,11 @@
 
 
     <!-- Footer -->
-    <?php include "../footer/footer.php"; ?>
+    <?php include "../footer.php"; ?>
     <!-- Footer -->
 
 
-    <script src="../header/script.js"></script>
+    <script src="../header.js"></script>
     <script src="tour.js"></script>
 
 
