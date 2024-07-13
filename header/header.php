@@ -15,9 +15,9 @@
         <div class="header--sec1--div1">
             <div class="header--sec1--div2">
 
-<img src="../resoursers/img/toggle.png" onclick="toggle();" class="header--toggle" />
+                <img src="../resoursers/img/toggle.png" onclick="toggle();" class="header--toggle" />
 
-              
+
             </div>
 
             <div class="header--sec1--div3">
@@ -43,12 +43,12 @@
                         </dd>
                         <dd>
                             <a href="../package/tour.php#ANIMAL" class="header--a">
-                            SAFARI TOURS
+                                SAFARI TOURS
                             </a>
                         </dd>
                         <dd>
                             <a href="../package/tour.php#ANIMAL" class="header--a">
-                            ANIMAL TOURS
+                                ANIMAL TOURS
                             </a>
                         </dd>
                     </a>
