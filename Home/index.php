@@ -45,6 +45,9 @@
                 <div class="slide-icon"></div>
             </div>
         </div>
+        <div class="hero--txt">
+            Exlpore the wild beauty of <br>Sri Lanka...
+        </div>
     </section>
     <!-- hero slider end -->
 
@@ -100,18 +103,18 @@
 
                     <!-- Full-width images with number and caption text -->
                     <div class="mySlides10 fade">
-                        <img src="../resoursers/img/1.jpg" style="width:100%">
+                        <img src="../resoursers/img/1.png" style="width:100%; border-radius: 20px 0px 20px 0px;">
                     </div>
 
                     <div class="mySlides10 fade">
-                        <img src="../resoursers/img/2.png" style="width:100%">
+                        <img src="../resoursers/img/2.png" style="width:100%; border-radius: 0px 20px 0px 20px;">
                     </div>
 
                     <div class="mySlides10 fade">
-                        <img src="../resoursers/img/3.jpg" style="width:100%">
+                        <img src="../resoursers/img/3.png" style="width:100%; border-radius: 20px 0px 20px 0px;">
                     </div>
                     <div class="mySlides10 fade">
-                        <img src="../resoursers/img/4.png" style="width:100%">
+                        <img src="../resoursers/img/4.png" style="width:100%; border-radius: 0px 20px 0px 20px;">
                     </div>
                 </div>
 
@@ -145,6 +148,9 @@
     </section>
 
     <section class="home--sec4">
+        <div class="home--sec4--div2">
+                    <span class="home--sec3--div3--heading1">GALLERY!</span>
+                </div>
         <div class="home--sec4--div1">
             <img src="../resoursers/img/gallery/Group 3.png" class="home--gallery-droup01">
             <img src="../resoursers/img/gallery/Group 4.png" class="home--gallery-group02">

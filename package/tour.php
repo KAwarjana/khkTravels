@@ -19,12 +19,13 @@
     <?php include "../header.php"; ?>
     <!-- Header -->
 
-    <div class="tp--sec1--div2 heading--pack01">
-            <span class="tp--sec1--span1">DAY TOURS</span>
-        </div>
+
 
     <section class="to--sec1" id="DAY">
-        
+
+        <div class="tp--sec1--div2 heading--pack01">
+            <span class="tp--sec1--span1">DAY TOURS</span>
+        </div>
 
         <section class="to--sec1">
         </section>
@@ -43,18 +44,18 @@
 
                             <!-- Full-width images with number and caption text -->
                             <div class="mySlides fade">
-                                <img src="../resoursers/img/1.jpg" style="width:100%">
+                                <img src="../resoursers/img/1_3.png" style="width:100%; border-radius: 20px 0px 20px 0px;">
                             </div>
 
                             <div class="mySlides fade">
-                                <img src="../resoursers/img/2.png" style="width:100%">
+                                <img src="../resoursers/img/1_5.png" style="width:100%; border-radius: 0px 20px 0px 20px;">
                             </div>
 
                             <div class="mySlides fade">
-                                <img src="../resoursers/img/3.jpg" style="width:100%">
+                                <img src="../resoursers/img/1_2.png" style="width:100%; border-radius: 20px 0px 20px 0px;">
                             </div>
                             <div class="mySlides fade">
-                                <img src="../resoursers/img/4.png" style="width:100%">
+                                <img src="../resoursers/img/1_4.png" style="width:100%; border-radius: 0px 20px 0px 20px;">
                             </div>
                         </div>
                         <br>
@@ -70,7 +71,7 @@
                                     <li>Pick up and drop vehicle</li>
                                     <li>Safari Jeep</li>
                                     <li>Well experience driver and guide</li>
-                                </ul><br>
+                                </ul>
                                 <table>
                                     <tr>
                                         <td><b>MORNING&nbsp;SAFARI:-</b></td>
@@ -137,18 +138,18 @@
 
                             <!-- Full-width images with number and caption text -->
                             <div class="mySlides1 fade">
-                                <img src="../resoursers/img/1.jpg" style="width:100%">
+                                <img src="../resoursers/img/2_2.png" style="width:100%; border-radius: 20px 0px 20px 0px;">
                             </div>
 
                             <div class="mySlides1 fade">
-                                <img src="../resoursers/img/2.png" style="width:100%">
+                                <img src="../resoursers/img/2_4.png" style="width:100%; border-radius: 0px 20px 0px 20px;">
                             </div>
 
                             <div class="mySlides1 fade">
-                                <img src="../resoursers/img/3.jpg" style="width:100%">
+                                <img src="../resoursers/img/2_1.png" style="width:100%; border-radius: 20px 0px 20px 0px;">
                             </div>
                             <div class="mySlides1 fade">
-                                <img src="../resoursers/img/4.png" style="width:100%">
+                                <img src="../resoursers/img/2_3.png" style="width:100%; border-radius: 0px 20px 0px 20px;">
                             </div>
                         </div>
                         <br>
@@ -159,8 +160,8 @@
                                 <br><br>
                                 <b>MAIN DESTINATIONS</b>
                                 <ul>
-                                    <li>Ambuluwawa </li>
-                                    <li>Damro tea Plantation</li>
+                                    <li>Ambuluwawa Tower </li>
+                                    <li>Damro Tea Plantation</li>
                                     <li>Gregory Lake</li>
                                 </ul><br>
                                 <b> INCLUDING</b>
@@ -200,18 +201,18 @@
 
                             <!-- Full-width images with number and caption text -->
                             <div class="mySlides2 fade">
-                                <img src="../resoursers/img/1.jpg" style="width:100%">
+                                <img src="../resoursers/img/3_5.png" style="width:100%; border-radius: 20px 0px 20px 0px;">
                             </div>
 
                             <div class="mySlides2 fade">
-                                <img src="../resoursers/img/2.png" style="width:100%">
+                                <img src="../resoursers/img/3_4.png" style="width:100%; border-radius: 0px 20px 0px 20px;">
                             </div>
 
                             <div class="mySlides2 fade">
-                                <img src="../resoursers/img/3.jpg" style="width:100%">
+                                <img src="../resoursers/img/3_3.png" style="width:100%; border-radius: 20px 0px 20px 0px;">
                             </div>
                             <div class="mySlides2 fade">
-                                <img src="../resoursers/img/4.png" style="width:100%">
+                                <img src="../resoursers/img/3_1.png" style="width:100%; border-radius: 0px 20px 0px 20px;">
                             </div>
                         </div>
                         <br>
@@ -274,18 +275,18 @@
 
                             <!-- Full-width images with number and caption text -->
                             <div class="mySlides3 fade">
-                                <img src="../resoursers/img/1.jpg" style="width:100%">
+                                <img src="../resoursers/img/4_1.png" style="width:100%; border-radius: 20px 0px 20px 0px;">
                             </div>
 
                             <div class="mySlides3 fade">
-                                <img src="../resoursers/img/2.png" style="width:100%">
+                                <img src="../resoursers/img/4_2.png" style="width:100%; border-radius: 0px 20px 0px 20px;">
                             </div>
 
                             <div class="mySlides3 fade">
-                                <img src="../resoursers/img/3.jpg" style="width:100%">
+                                <img src="../resoursers/img/4_3.png" style="width:100%; border-radius: 20px 0px 20px 0px;">
                             </div>
                             <div class="mySlides3 fade">
-                                <img src="../resoursers/img/4.png" style="width:100%">
+                                <img src="../resoursers/img/4_4.png" style="width:100%; border-radius: 0px 20px 0px 20px;">
                             </div>
                         </div>
                         <br>
@@ -340,18 +341,18 @@
 
                             <!-- Full-width images with number and caption text -->
                             <div class="mySlides4 fade">
-                                <img src="../resoursers/img/1.jpg" style="width:100%">
+                                <img src="../resoursers/img/5_1.png" style="width:100%; border-radius: 20px 0px 20px 0px;">
                             </div>
 
                             <div class="mySlides4 fade">
-                                <img src="../resoursers/img/2.png" style="width:100%">
+                                <img src="../resoursers/img/5_2.png" style="width:100%; border-radius: 0px 20px 0px 20px;">
                             </div>
 
                             <div class="mySlides4 fade">
-                                <img src="../resoursers/img/3.jpg" style="width:100%">
+                                <img src="../resoursers/img/5_3.png" style="width:100%; border-radius: 20px 0px 20px 0px;">
                             </div>
                             <div class="mySlides4 fade">
-                                <img src="../resoursers/img/4.png" style="width:100%">
+                                <img src="../resoursers/img/5_4.png" style="width:100%; border-radius: 0px 20px 0px 20px;">
                             </div>
                         </div>
                         <br>
@@ -416,18 +417,18 @@
 
                             <!-- Full-width images with number and caption text -->
                             <div class="mySlides5 fade">
-                                <img src="../resoursers/img/1.jpg" style="width:100%">
+                                <img src="../resoursers/img/6_1.png" style="width:100%; border-radius: 20px 0px 20px 0px;">
                             </div>
 
                             <div class="mySlides5 fade">
-                                <img src="../resoursers/img/2.png" style="width:100%">
+                                <img src="../resoursers/img/6_2.png" style="width:100%; border-radius: 0px 20px 0px 20px;">
                             </div>
 
                             <div class="mySlides5 fade">
-                                <img src="../resoursers/img/3.jpg" style="width:100%">
+                                <img src="../resoursers/img/6_3.png" style="width:100%; border-radius: 20px 0px 20px 0px;">
                             </div>
                             <div class="mySlides5 fade">
-                                <img src="../resoursers/img/4.png" style="width:100%">
+                                <img src="../resoursers/img/6_4.png" style="width:100%; border-radius: 0px 20px 0px 20px;">
                             </div>
                         </div>
                         <br>
@@ -477,18 +478,18 @@
 
                             <!-- Full-width images with number and caption text -->
                             <div class="mySlides6 fade">
-                                <img src="../resoursers/img/1.jpg" style="width:100%">
+                                <img src="../resoursers/img/7_1.png" style="width:100%; border-radius: 20px 0px 20px 0px;">
                             </div>
 
                             <div class="mySlides6 fade">
-                                <img src="../resoursers/img/2.png" style="width:100%">
+                                <img src="../resoursers/img/7_2.png" style="width:100%; border-radius: 0px 20px 0px 20px;">
                             </div>
 
                             <div class="mySlides6 fade">
-                                <img src="../resoursers/img/3.jpg" style="width:100%">
+                                <img src="../resoursers/img/7_3.png" style="width:100%; border-radius: 20px 0px 20px 0px;">
                             </div>
                             <div class="mySlides6 fade">
-                                <img src="../resoursers/img/4.png" style="width:100%">
+                                <img src="../resoursers/img/7_4.png" style="width:100%; border-radius: 0px 20px 0px 20px;">
                             </div>
                         </div>
                         <br>
@@ -537,18 +538,18 @@
 
                             <!-- Full-width images with number and caption text -->
                             <div class="mySlides7 fade">
-                                <img src="../resoursers/img/1.jpg" style="width:100%">
+                                <img src="../resoursers/img/8_1.png" style="width:100%; border-radius: 20px 0px 20px 0px;">
                             </div>
 
                             <div class="mySlides7 fade">
-                                <img src="../resoursers/img/2.png" style="width:100%">
+                                <img src="../resoursers/img/8_2.png" style="width:100%; border-radius: 0px 20px 0px 20px;">
                             </div>
 
                             <div class="mySlides7 fade">
-                                <img src="../resoursers/img/3.jpg" style="width:100%">
+                                <img src="../resoursers/img/8_3.png" style="width:100%; border-radius: 20px 0px 20px 0px;">
                             </div>
                             <div class="mySlides7 fade">
-                                <img src="../resoursers/img/4.png" style="width:100%">
+                                <img src="../resoursers/img/8_4.png" style="width:100%; border-radius: 0px 20px 0px 20px;">
                             </div>
                         </div>
                         <br>
@@ -605,18 +606,18 @@
 
                             <!-- Full-width images with number and caption text -->
                             <div class="mySlides8 fade">
-                                <img src="../resoursers/img/1.jpg" style="width:100%">
+                                <img src="../resoursers/img/9_1.png" style="width:100%; border-radius: 20px 0px 20px 0px;">
                             </div>
 
                             <div class="mySlides8 fade">
-                                <img src="../resoursers/img/2.png" style="width:100%">
+                                <img src="../resoursers/img/9_2.png" style="width:100%; border-radius: 0px 20px 0px 20px;">
                             </div>
 
                             <div class="mySlides8 fade">
-                                <img src="../resoursers/img/3.jpg" style="width:100%">
+                                <img src="../resoursers/img/9_3.png" style="width:100%; border-radius: 20px 0px 20px 0px;">
                             </div>
                             <div class="mySlides8 fade">
-                                <img src="../resoursers/img/4.png" style="width:100%">
+                                <img src="../resoursers/img/9_4.png" style="width:100%; border-radius: 0px 20px 0px 20px;">
                             </div>
                         </div>
                         <br>
@@ -624,7 +625,7 @@
                         <div class="tp--sec1--div6">
                             <span class="tp--sec1--span3">
                                 <b>PACKAGE </b><br>
-                                3-hours/4-hour Private Tours (Normal Safari )
+                                3-hours/4-hour Private Tours (Normal Safari)
                                 <br><br>
 
                                 <b>START </b><br>
@@ -686,18 +687,18 @@
 
                             <!-- Full-width images with number and caption text -->
                             <div class="mySlides9 fade">
-                                <img src="../resoursers/img/1.jpg" style="width:100%">
+                                <img src="../resoursers/img/10_1.png" style="width:100%; border-radius: 20px 0px 20px 0px;">
                             </div>
 
                             <div class="mySlides9 fade">
-                                <img src="../resoursers/img/2.png" style="width:100%">
+                                <img src="../resoursers/img/10_2.png" style="width:100%; border-radius: 0px 20px 0px 20px;">
                             </div>
 
                             <div class="mySlides9 fade">
-                                <img src="../resoursers/img/3.jpg" style="width:100%">
+                                <img src="../resoursers/img/10_3.png" style="width:100%; border-radius: 20px 0px 20px 0px;">
                             </div>
                             <div class="mySlides9 fade">
-                                <img src="../resoursers/img/4.png" style="width:100%">
+                                <img src="../resoursers/img/10_4.png" style="width:100%; border-radius: 0px 20px 0px 20px;">
                             </div>
                         </div>
                         <br>
@@ -705,14 +706,14 @@
                         <div class="tp--sec1--div6">
                             <span class="tp--sec1--span3">
                                 <b>PACKAGE </b><br>
-                                3-hours/4-hour Private Tours (Normal Safari )
+                                3-hours/4-hour Private Tours (Normal Safari)
                                 <br><br>
 
                                 <b>START </b><br>
                                 Morning Safari - 10.00AM / 2.00PM <br><br>
 
-                                Udawalawe National Park Safari Tours for 3 or 4 Hours. With our udawalawe safari tour, you can spend more than 3 or  4 hours exploring and photographing wildlife. You have the option of taking an Afternoon or Evening Safari tour. Our Guide/Driver will teach everything there is to know about wild creatures and the national park.
-<br>Join us for an exciting adventure safari experience for your valuable money.
+                                Udawalawe National Park Safari Tours for 3 or 4 Hours. With our udawalawe safari tour, you can spend more than 3 or 4 hours exploring and photographing wildlife. You have the option of taking an Afternoon or Evening Safari tour. Our Guide/Driver will teach everything there is to know about wild creatures and the national park.
+                                <br>Join us for an exciting adventure safari experience for your valuable money.
 
                                 <br><br>
                                 We will give you unique experience unlike any other
@@ -767,18 +768,18 @@
 
                             <!-- Full-width images with number and caption text -->
                             <div class="mySlides10 fade">
-                                <img src="../resoursers/img/1.jpg" style="width:100%">
+                                <img src="../resoursers/img/11_1.png" style="width:100%; border-radius: 20px 0px 20px 0px;">
                             </div>
 
                             <div class="mySlides10 fade">
-                                <img src="../resoursers/img/2.png" style="width:100%">
+                                <img src="../resoursers/img/11_2.png" style="width:100%; border-radius: 0px 20px 0px 20px;">
                             </div>
 
                             <div class="mySlides10 fade">
-                                <img src="../resoursers/img/3.jpg" style="width:100%">
+                                <img src="../resoursers/img/11_3.png" style="width:100%; border-radius: 20px 0px 20px 0px;">
                             </div>
                             <div class="mySlides10 fade">
-                                <img src="../resoursers/img/4.png" style="width:100%">
+                                <img src="../resoursers/img/11_4.png" style="width:100%; border-radius: 0px 20px 0px 20px;">
                             </div>
                         </div>
                         <br>
@@ -792,8 +793,8 @@
                                 <b>START </b><br>
                                 Evening Safari - 2.00PM / 6.00PM <br><br>
 
-                                Udawalawe National Park Safari Tours for 3 or 4 Hours. With our udawalawe safari tour, you can spend more than 3 or  4 hours exploring and photographing wildlife. You have the option of taking an Afternoon or Evening Safari tour. Our Guide/Driver will teach everything there is to know about wild creatures and the national park.
-<br>Join us for an exciting adventure safari experience for your valuable money.
+                                Udawalawe National Park Safari Tours for 3 or 4 Hours. With our udawalawe safari tour, you can spend more than 3 or 4 hours exploring and photographing wildlife. You have the option of taking an Afternoon or Evening Safari tour. Our Guide/Driver will teach everything there is to know about wild creatures and the national park.
+                                <br>Join us for an exciting adventure safari experience for your valuable money.
 
                                 <br><br>
                                 We will give you unique experience unlike any other
@@ -854,18 +855,18 @@
 
                             <!-- Full-width images with number and caption text -->
                             <div class="mySlides11 fade">
-                                <img src="../resoursers/img/1.jpg" style="width:100%">
+                                <img src="../resoursers/img/12_1.png" style="width:100%; border-radius: 20px 0px 20px 0px;">
                             </div>
 
                             <div class="mySlides11 fade">
-                                <img src="../resoursers/img/2.png" style="width:100%">
+                                <img src="../resoursers/img/12_2.png" style="width:100%; border-radius: 0px 20px 0px 20px;">
                             </div>
 
                             <div class="mySlides11 fade">
-                                <img src="../resoursers/img/3.jpg" style="width:100%">
+                                <img src="../resoursers/img/12_3.png" style="width:100%; border-radius: 20px 0px 20px 0px;">
                             </div>
                             <div class="mySlides11 fade">
-                                <img src="../resoursers/img/4.png" style="width:100%">
+                                <img src="../resoursers/img/12_4.png" style="width:100%; border-radius: 0px 20px 0px 20px;">
                             </div>
                         </div>
                         <br>
@@ -914,18 +915,18 @@
 
                             <!-- Full-width images with number and caption text -->
                             <div class="mySlides12 fade">
-                                <img src="../resoursers/img/1.jpg" style="width:100%">
+                                <img src="../resoursers/img/13_1.png" style="width:100%; border-radius: 20px 0px 20px 0px;">
                             </div>
 
                             <div class="mySlides12 fade">
-                                <img src="../resoursers/img/2.png" style="width:100%">
+                                <img src="../resoursers/img/13_2.png" style="width:100%; border-radius: 0px 20px 0px 20px;">
                             </div>
 
                             <div class="mySlides12 fade">
-                                <img src="../resoursers/img/3.jpg" style="width:100%">
+                                <img src="../resoursers/img/13_3.png" style="width:100%; border-radius: 20px 0px 20px 0px;">
                             </div>
                             <div class="mySlides12 fade">
-                                <img src="../resoursers/img/4.png" style="width:100%">
+                                <img src="../resoursers/img/13_4.png" style="width:100%; border-radius: 0px 20px 0px 20px;">
                             </div>
                         </div>
                         <br>

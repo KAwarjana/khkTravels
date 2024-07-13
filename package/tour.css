@@ -148,6 +148,30 @@ text-align: center;
   display: none;
 }
 
+.mySlides7 {
+  display: none;
+}
+
+.mySlides8 {
+  display: none;
+}
+
+.mySlides9 {
+  display: none;
+}
+
+.mySlides10 {
+  display: none;
+}
+
+.mySlides11{
+  display: none;
+}
+
+.mySlides12 {
+  display: none;
+}
+
 /* On hover, add a black background color with a little bit see-through */
 .prev:hover,
 .next:hover {
@@ -229,7 +253,8 @@ font-family: "Inter";
   }
 
   .to--sec1--div1 {
-    padding: 5% 2% 5% 2%;
+    width: 100%;
+    padding: 2% 0% 2% 0%;
     margin-top: 0%;
     margin-top: -2%;
   }
@@ -237,6 +262,15 @@ font-family: "Inter";
   .heading--pack01{
     margin-top: 10%;
   }
+
+  .tp--sec1--div3 {
+    width: 92%;
+  }
+
+  .tp--sec1--span2{
+    margin-top: 2%;
+    }
+
 }
 
 @media screen and (min-width: 950px) {
@@ -258,10 +292,19 @@ font-family: "Inter";
   }
 
   .to--sec1--div1 {
-    padding: 5% 2% 5% 2%;
+    width: 100%;
+    padding: 2% 0% 2% 0%;
     margin-top: 0%;
     margin-top: -5%;
   }
+
+  .tp--sec1--div3 {
+    width: 95%;
+  }
+
+  .tp--sec1--span2{
+    margin-top: 1%;
+    }
 
 }
 

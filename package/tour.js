@@ -83,7 +83,7 @@ function showSlides5() {
   for (i = 0; i < slides.length; i++) {
     slides[i].style.display = "none";
   }
-  slideIndex1++;
+  slideIndex5++;
   if (slideIndex5 > slides.length) {slideIndex5 = 1}
   slides[slideIndex5-1].style.display = "block";
   setTimeout(showSlides5, 5000); // Change image every 2 seconds

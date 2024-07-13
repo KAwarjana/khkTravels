@@ -145,6 +145,21 @@ body {
   background: #4285F4;
 }
 
+.home--sec4--div2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero--txt{
+  font-family: "Poppins-Bold";
+  font-size: 2rem;
+  padding-left: 5%;
+  position: absolute;
+  bottom: 30%;
+  color: #ffffff;
+}
+
 @media (max-width: 900px) {
   .slider {
     width: 100%;
@@ -246,6 +261,13 @@ body {
   .home--sec2--div4 {
     padding-bottom: 2%;
   }
+
+  .hero--txt{
+    font-size: 3rem;
+    padding-left: 5%;
+    position: absolute;
+    bottom: 55%;
+  }
 }
 
 @media (min-width: 700px) {
@@ -279,6 +301,13 @@ body {
 
   .home--sec2--div2--para1 {
     font-size: 1.2rem;
+  }
+
+  .hero--txt{
+    font-size: 4rem;
+    padding-left: 5%;
+    position: absolute;
+    bottom: 20%;
   }
 }
 
