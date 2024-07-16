@@ -25,7 +25,7 @@
             </div>
             <div class="con--sec01--div03">
                 <div class="con--sec01--div20">
-                    <img class="con--sec01--aboutimg" src="../resoursers/img/1.jpg" alt="">
+                    <img class="con--sec01--aboutimg" src="../resoursers/img/1.png" alt="">
                 </div>
 
                 <div class="con--sec01--div21">
