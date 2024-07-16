@@ -14,8 +14,8 @@
 
 <body>
 
- <!-- Header -->
- <?php include "../header.php"; ?>
+    <!-- Header -->
+    <?php include "../header.php"; ?>
     <!-- Header -->
 
     <section class="con--sec01" id="about">
@@ -78,29 +78,29 @@
             <div class="con--sec02--div07">
                 <div class="con--sec02--div08">
                     <span class="con--sec02--subtopic">First Name</span>
-                    <input class="con--sec02--inputs" type="text">
+                    <input class="con--sec02--inputs" id="fname" type="text">
                 </div>
                 <div class="con--sec02--div09">
                     <span class="con--sec02--subtopic">Last Name</span>
-                    <input class="con--sec02--inputs" type="text">
+                    <input class="con--sec02--inputs" id="lname" type="text">
                 </div>
             </div>
             <div class="con--sec02--div10">
                 <div class="con--sec02--div11 div002">
                     <span class="con--sec02--subtopic">Email</span>
-                    <input class="con--sec02--inputs" type="text">
+                    <input class="con--sec02--inputs" id="email" type="text">
                 </div>
                 <div class="div001 con--sec02--div11">
                     <span class="con--sec02--subtopic">Mobile</span>
-                    <input class="con--sec02--inputs" type="text">
+                    <input class="con--sec02--inputs" id="mobile" type="text">
                 </div>
             </div>
             <div class="con--sec02--div13">
                 <span class="con--sec02--subtopic">Message</span>
-                <textarea class="con--sec02--texteria" name="" id=""></textarea>
+                <textarea class="con--sec02--texteria" name="" id="message"></textarea>
             </div>
             <div class="con--sec02--div15">
-                <button class="con--sec02--button01">SEND</button>
+                <button class="con--sec02--button01" onclick="sendmassage();">SEND</button>
             </div>
         </div>
     </section>
@@ -110,6 +110,8 @@
     <!-- Footer -->
 
     <script src="../header.js"></script>
+    <script src="script.js"></script>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 
 </body>
 
