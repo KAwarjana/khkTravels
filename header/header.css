@@ -264,7 +264,7 @@
 }
 
 .header--spaceDiv{
-    height: 15vh;
+    height: 16.1vh;
 }
 
 }
@@ -288,7 +288,7 @@
 
     .header--spaceDiv{
         width: 100%;
-        height: 15vh;
+        height: 16.1vh;
     }
 }
 
@@ -312,6 +312,7 @@
         height: 15vh;
     }
 }
+
 
 
 @media screen and (min-width:545px) and (max-width:945px){
@@ -398,6 +399,6 @@
     }
 
     .header--spaceDiv{
-        height: 12vh;
+        height: 13vh;
     }
 }
