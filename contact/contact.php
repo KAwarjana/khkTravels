@@ -7,15 +7,15 @@
     <title>KHK TOURS | CONTACT US</title>
     <link rel="icon" href="../resoursers/img/logo.png" />
     <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="../header.css" />
-    <link rel="stylesheet" href="../footer.css" />
+    <link rel="stylesheet" href="../header/header.css" />
+    <link rel="stylesheet" href="../footer/footer.css" />
     <link rel="stylesheet" href="../_resources/Bootstrap/bootstrap.css">
 </head>
 
 <body>
 
     <!-- Header -->
-    <?php include "../header.php"; ?>
+    <?php include "../header/header.php"; ?>
     <!-- Header -->
 
     <section class="con--sec01" id="about">
@@ -106,10 +106,10 @@
     </section>
 
     <!-- Footer -->
-    <?php include "../footer.php"; ?>
+    <?php include "../footer/footer.php"; ?>
     <!-- Footer -->
 
-    <script src="../header.js"></script>
+    <script src="../header/header.js"></script>
     <script src="script.js"></script>
     <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 

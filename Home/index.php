@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <title>KHK TOURS | HOME</title>
     <link rel="icon" href="../resoursers/img/logo.png" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css">
     <link rel="stylesheet" href="style.css" />
     <link rel="stylesheet" href="img.css" />
     <link rel="stylesheet" href="../header/header.css" />
@@ -103,18 +104,18 @@
 
                     <!-- Full-width images with number and caption text -->
                     <div class="mySlides10 fade">
-                        <img src="../resoursers/img/1.png" style="width:100%; border-radius: 20px 0px 20px 0px;">
+                        <img src="../resoursers/img/1.png" style="width:100%; border-radius: 100px 0px 100px 0px;">
                     </div>
 
                     <div class="mySlides10 fade">
-                        <img src="../resoursers/img/2.png" style="width:100%; border-radius: 0px 20px 0px 20px;">
+                        <img src="../resoursers/img/2.png" style="width:100%; border-radius: 0px 100px 0px 100px;">
                     </div>
 
                     <div class="mySlides10 fade">
-                        <img src="../resoursers/img/3.png" style="width:100%; border-radius: 20px 0px 20px 0px;">
+                        <img src="../resoursers/img/3.png" style="width:100%; border-radius: 100px 0px 100px 0px;">
                     </div>
                     <div class="mySlides10 fade">
-                        <img src="../resoursers/img/4.png" style="width:100%; border-radius: 0px 20px 0px 20px;">
+                        <img src="../resoursers/img/4.png" style="width:100%; border-radius: 0px 100px 0px 100px;">
                     </div>
                 </div>
 
@@ -149,8 +150,8 @@
 
     <section class="home--sec4">
         <div class="home--sec4--div2">
-                    <span class="home--sec3--div3--heading1">GALLERY!</span>
-                </div>
+            <span class="home--sec3--div3--heading1">GALLERY!</span>
+        </div>
         <div class="home--sec4--div1">
             <img src="../resoursers/img/gallery/Group 3.png" class="home--gallery-droup01">
             <img src="../resoursers/img/gallery/Group 4.png" class="home--gallery-group02">
@@ -206,43 +207,88 @@
         <div class="home--sec3--div3">
             <span class="home--sec3--div3--heading1">WHAT MY CLIENT SAYS!</span>
         </div>
-        <div class="home--sec6--div1">
-            <div class="home--sec6--div2">
-                <div class="home--sec6--div5">
-                    <span class="feedback--name">MIA JOHNSON</span>
-                </div>
-                <div class="home--sec6--div6">
-                    The city tour was fantastic! We learned interesting stories about each place, and the local cuisine
-                    recommendations were a delicious.
+        <div class="slide-container swiper">
+            <div class="slide-content">
+                <div class="card-wrapper swiper-wrapper">
+
+                    <div class="card swiper-slide">
+                        <div class="image-content">
+                            <span class="overlay"></span>
+
+                            <div class="card-image">
+                                <img src="../resoursers/img/feed1.jpg" alt="" class="card-img">
+                            </div>
+                        </div>
+
+                        <div class="card-content">
+                            <h2 class="name">Shiva Munasinha</h2>
+                            <p class="description">This is very useful for travelers. Excellent job.</p>
+                        </div>
+                    </div>
+
+                    <div class="card swiper-slide">
+                        <div class="image-content">
+                            <span class="overlay"></span>
+
+                            <div class="card-image">
+                                <img src="../resoursers/img/feed2.jpg" alt="" class="card-img">
+                            </div>
+                        </div>
+
+                        <div class="card-content">
+                            <h2 class="name">Marcin Franek Marcinowski</h2>
+                            <p class="description">Kosala is the best driver ever. The trip was wonderful and we spend great time with him.
+                                We definitely recommend this place and company. 🙏❤️😍😘👍🏼👍🏼👍🏼👍🏼👍🏼
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="card swiper-slide">
+                        <div class="image-content">
+                            <span class="overlay"></span>
+
+                            <div class="card-image">
+                                <img src="../resoursers/img/user_kosala.png" alt="" class="card-img">
+                            </div>
+                        </div>
+
+                        <div class="card-content">
+                            <h2 class="name">Megan Shank</h2>
+                            <p class="description">We had the pleasure of having Kosala as our driver while visiting Sri Lanka for two weeks. He was an excellent driver and made transportation across the country an easy, relaxing experience. 
+                                <br>
+                                <!-- (We did use two other transportations companies while in Sri Lanka and they just didn’t compare to the service we received with Kosala.)
+                                <br>
+                                I would highly recommend this company to anyone looking for transportation while visiting Sri Lanka. -->
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="card swiper-slide">
+                        <div class="image-content">
+                            <span class="overlay"></span>
+
+                            <div class="card-image">
+                                <img src="../resoursers/img/user_kosala.png" alt="" class="card-img">
+                            </div>
+                        </div>
+
+                        <div class="card-content">
+                            <h2 class="name">Christine Hwee</h2>
+                            <p class="description">Our driver, Kosala was very knowledgeable and professional and took care of us throughout the trip. Very dedicated to the job.
+                                <br>
+                                We feel so blessed.
+                                <br>
+                                Thank you for everything Kosala.
+                            </p>
+                        </div>
+                    </div>
+
                 </div>
             </div>
 
-            <div class="home--sec6--div2">
-                <div class="home--sec6--div5">
-                    <span class="feedback--name">LUCA ROSSI</span>
-                </div>
-                <div class="home--sec6--div6">
-                    Arranging the historical day tour was easy. The sites were fascinating and full of cool facts.
-                </div>
-            </div>
-
-            <div class="home--sec6--div2">
-                <div class="home--sec6--div5">
-                    <span class="feedback--name">PABLO&nbsp;GONSALEZ</span>
-                </div>
-                <div class="home--sec6--div6">
-                    Calling to plan our trip was straightforward. The tips we got made our adventure unforgettable!
-                </div>
-            </div>
-
-            <div class="home--sec6--div2">
-                <div class="home--sec6--div5">
-                    <span class="feedback--name">WEI LIANG TAN</span>
-                </div>
-                <div class="home--sec6--div6">
-                    The safari was amazing, seeing lots of animals and our guide made it really interesting.
-                </div>
-            </div>
+            <div class="swiper-button-next swiper-navBtn"></div>
+            <div class="swiper-button-prev swiper-navBtn"></div>
+            <div class="swiper-pagination"></div>
         </div>
     </section>
 
@@ -250,9 +296,11 @@
     <?php include "../footer/footer.php"; ?>
     <!-- Footer -->
 
+    <!-- Swiper JS -->
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
     <script src="script.js"></script>
     <script src="img.js"></script>
-    <script src="../header/script.js"></script>
+    <script src="../header/header.js"></script>
 
 </body>
 

@@ -26,10 +26,10 @@
         </div>
 
         <div class="dropdown" id="dropdown">
-            <span class="dropdown--item hide" id="drpItem"><a href="../index.php" class="header--a">HOME</a></span>
+            <span class="dropdown--item hide" id="drpItem"><a href="../Home/index.php" class="header--a">HOME</a></span>
             <span class="dropdown--item hide" id="drpItem1">
                 <dl>
-                    <a href="#" class="header--a">
+                    <a href="../package/tour.php" class="header--a">
                         TOUR PACKAGES
                         <dd>
                             <a href="../package/tour.php#CITY" class="header--a">
