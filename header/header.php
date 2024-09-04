@@ -12,20 +12,53 @@
 <body class="header--body">
     <!-- mobile -->
     <section class="header--sec1">
-        <div class="header--sec1--div1">
-            <div class="header--sec1--div2">
+        <div class="header--sec1--div4">
+            <div class="header--sec1--div1">
+                <div class="header--sec1--div2">
 
-                <img src="../resoursers/img/toggle.png" onclick="toggle();" class="header--toggle" />
+                    <div id="mySidepanel" class="sidepanel">
+                        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+                        <a href="../Home/index.php">HOME</a>
+                        <dl>
+                        <a href="../package/tour.php">TOUR PACKAGES
+                            <dd>
+                                <a href="../package/tour.php#CITY" class="header--a">
+                                    CITY TOURS
+                                </a>
+                            </dd>
+                            <dd>
+                                <a href="../package/tour.php#DAY" class="header--a">
+                                    DAY TOURS
+                                </a>
+                            </dd>
+                            <dd>
+                                <a href="../package/tour.php#SAFARI" class="header--a">
+                                    SAFARI TOURS
+                                </a>
+                            </dd>
+                            <dd>
+                                <a href="../package/tour.php#ANIMAL" class="header--a">
+                                    ANIMAL TOURS
+                                </a>
+                            </dd>
+                        </a>
+                        </dl>
+                        <a href="../contact/contact.php">CONTACT US</a>
+                    </div>
+
+                    <button class="openbtn" onclick="openNav()">
+                        <img src="../resoursers/img/toggle.png" onclick="toggle();" class="header--toggle" />
+                    </button>
 
 
+                </div>
+
+                <div class="header--sec1--div3" onclick="window.location='../Home/index.php'">
+                    <img src="../resoursers/img/logo.png" class="header--logo" />
+                </div>
             </div>
 
-            <div class="header--sec1--div3">
-                <img src="../resoursers/img/logo.png" class="header--logo" />
-            </div>
-        </div>
-
-        <div class="dropdown" id="dropdown">
+            <!-- <div class="dropdown" id="dropdown">
             <span class="dropdown--item hide" id="drpItem"><a href="../Home/index.php" class="header--a">HOME</a></span>
             <span class="dropdown--item hide" id="drpItem1">
                 <dl>
@@ -55,10 +88,14 @@
                 </dl>
             </span>
             <span class="dropdown--item hide" id="drpItem2"><a href="../contact/contact.php" class="header--a">CONTACT US</a></span>
-        </div>
+        </div> -->
 
-        <div class="call--now--btn">
-            <span class="call--now--txt"><a href="tel:+94 77 361 4654" class="call--now--txt">CALL NOW!</a></span>
+
+
+            <div class="call--now--btn">
+                <span class="call--now--txt"><a href="tel:+94 77 361 4654" class="call--now--txt">CALL NOW!</a></span>
+            </div>
+
         </div>
 
     </section>
@@ -66,7 +103,7 @@
     <!-- large screen -->
     <section class="header--sec2">
         <div class="header--sec2--div1">
-            <div class="header--sec2--div2">
+            <div class="header--sec2--div2" onclick="window.location='../Home/index.php'">
                 <img src="../resoursers/img/logo_lg.png" class="header--logo" />
             </div>
             <div class="header--sec2--div3">

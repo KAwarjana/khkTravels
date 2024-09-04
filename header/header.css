@@ -28,15 +28,18 @@
 .header--logo {
     width: auto;
     height: 23vh;
+    justify-content: center;
+    align-items: center;
 }
 
 .header--sec1--div3 {
-    margin-top: -19%;
+    margin-top: -10%;
     justify-content: center;
     align-items: center;
     display: flex;
     padding-top: 4%;
     padding-top: 4%;
+    cursor: pointer;
 }
 
 .dropdown {
@@ -121,19 +124,21 @@
 }
 
 .call--now--btn{
-    background-color: #E42828;
-    width: 18%;
+    background-color: rgb(68, 150, 68);
+    /* width: 18%; */
     height: 16%;
-    position: absolute;
+    /* position: absolute; */
     text-align: center;
-    padding: 1%;
+    padding: 2%;
     border-radius: 8px;
-    left: 79%;
-    bottom: 72%;
+    /* left: 79%;
+    bottom: 72%; */
+    display: flex;
+    align-self: center;
 }
 
 .call--now--btn--lg{
-    background-color: #E42828;
+    background-color: rgb(68, 150, 68);
     width: 18%;
     height: 16%;
     position: absolute;
@@ -149,29 +154,58 @@
     text-decoration: none;
 }
 
-
 .header--spaceDiv{
     width: 100%;
     height: 18vh;
 }
 
+.header--sec1--div1{
+    width: 75%;
+    /* background-color: red; */
+    display: flex;
+    flex-direction: row;
+}
+
+.header--sec1--div2{
+    width: 40%;
+    /* background-color: blue; */
+    display: flex;
+    align-self: center;
+}
+
+.header--sec1--div3{
+    /* background-color: yellow; */
+    display: flex;
+    align-self: center;
+}
+
+.header--sec1--div4{
+    display: flex;
+    flex-direction: row;
+}
 
 @media screen and (max-width:350px) {
     .header--sec1--div3 {
-        margin-top: -17%;
+        margin-top: -8%;
     }
     .call--now--btn{
-        background-color: #E42828;
-        width: 22%;
+        background-color: rgb(68, 150, 68);
+        /* width: 22%; */
         height: 25%;
-        left: 76%;
-        bottom: 72%;
-        padding: 0%;
+        /* left: 76%;
+        bottom: 72%; */
+        /* padding: 0%; */
         border-radius: 5px;
+        display: flex;
+    align-self: center;
     }
     
     .call--now--txt{
         font-size: 0.6rem;
+    }
+    .header--logo {
+        width: auto;
+        height: 23vh;
     }
 }
 
@@ -224,6 +258,7 @@
     justify-content: center;
     align-items: center;
     display: flex;
+    cursor: pointer;
 }
 
 .header--sec2--div3 {
@@ -341,6 +376,7 @@
         justify-content: center;
         align-items: center;
         display: flex;
+        cursor: pointer;
     }
 
     .header--sec2--div3 {
@@ -402,3 +438,59 @@
         height: 13vh;
     }
 }
+
+
+/* The sidepanel menu */
+.sidepanel {
+    height: 100vh; /* Specify a height */
+    width: 0; /* 0 width - change this with JavaScript */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Stay on top */
+    top: 0;
+    left: 0;
+    background-color: #ffffffe0; /* Black*/
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 60px; /* Place content 60px from the top */
+    transition: 0.5s; /* 0.5 second transition effect to slide in the sidepanel */
+  }
+  
+  /* The sidepanel links */
+  .sidepanel a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 1rem;
+    color: #000000;
+    font-family: "Poppins-Bold";
+    display: block;
+    transition: 0.3s;
+  }
+  
+  /* When you mouse over the navigation links, change their color */
+  .sidepanel a:hover {
+    color: #747474;
+    font-variant: small-caps;
+  }
+  
+  /* Position and style the close button (top right corner) */
+  .sidepanel .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+  }
+  
+  /* Style the button that is used to open the sidepanel */
+  .openbtn {
+    font-size: 20px;
+    cursor: pointer;
+    /* background-color: #111; */
+    color: white;
+    padding: 10px 15px;
+    border: none;
+  }
+  
+  .openbtn:hover {
+    /* background-color: #444; */
+    color: #444;
+  }
